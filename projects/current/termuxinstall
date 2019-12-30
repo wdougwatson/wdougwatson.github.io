@@ -18,7 +18,7 @@ cp w/p/c/.gitconfig ~
 
 pkg install bc flex m4 man ncurses pcre2 
 
-pkg install nano fzf siversearcher-ag termimage bash-completion zsh fish screen debootstrap proot wget tree keybase
+pkg install nano fzf siversearcher-ag termimage bash-completion zsh fish screen debootstrap proot wget tree keybase make
 
 #proooted debian install download script and execute in home dir
 
