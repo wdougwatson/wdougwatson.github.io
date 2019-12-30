@@ -1,0 +1,28 @@
+pkg update
+
+pkg upgrade
+
+pkg install unstable-repo
+
+pkg remove game-repo
+
+apt autoremove
+
+pkg install git
+
+git clone --recursive https://github.com/wdougwatson/wdougwatson.github.io.git
+
+cp w/p/c/.bashrc ~
+
+cp w/p/c/.gitconfig ~
+
+pkg install bc flex m4 man ncurses pcre2 
+
+pkg install nano fzf siversearcher-ag termimage bash-completion zsh fish screen debootstrap proot wget tree keybase
+
+#proooted debian install download script and execute in home dir
+
+#tail -F $HOME/deboot_debian/debootstrap/debootstrap.log to watch install log
+
+wget https://raw.githubusercontent.com/sp4rkie/debian-on-termux/master/debian_on_termux.sh
+
