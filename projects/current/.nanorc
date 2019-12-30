@@ -186,6 +186,7 @@ set smooth
 set regexp
 set linenumbers
 set softwrap
+set mouse
 
 # File
 #bind ^O insert main
