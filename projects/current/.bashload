@@ -1,0 +1,5 @@
+#We will set environment variables from this file. 
+
+if [ -f ~/.bash_env ]; then
+    . ~/.bash_env
+fi
