@@ -18,7 +18,7 @@ cp w/p/c/.gitconfig ~
 
 pkg install bc flex m4 man ncurses pcre2 
 
-pkg install nano fzf siversearcher-ag termimage bash-completion zsh fish screen debootstrap proot wget tree keybase make vim python vim-python weechat weechat-python-plugin ctags ack-grep 
+pkg install nano fzf siversearcher-ag termimage bash-completion zsh fish screen debootstrap proot wget tree keybase make vim python vim-python weechat weechat-python-plugin ctags ack-grep micro golang rust temux-api termux-service ranger nnn
 
 #some python packages
 
@@ -30,3 +30,4 @@ pip install pep8 flake8 pyflakes isort yapf
 
 wget https://raw.githubusercontent.com/sp4rkie/debian-on-termux/master/debian_on_termux.sh
 
+termux-setup-storage
