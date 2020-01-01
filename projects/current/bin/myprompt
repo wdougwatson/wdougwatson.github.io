@@ -1,1 +1,1 @@
-. ~/.bash_prompt
+source ~/.bash_prompt
