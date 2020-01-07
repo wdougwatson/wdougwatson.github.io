@@ -1,0 +1,1996 @@
+% Total    % Received % Xferd  Average Speed 
+  Time    Time     Time  Current
+
+     Dload  Upload   Total   Spent    Left  Spe
+ed
+  0     0    0     0    0     0      0      0 -
+-:--:-- -100 29873  100 29873    0     0   110k
+      0 --:--:-- --:--:-- --:--:--  110k
+
+ 🕛 > 🕐 TermuxArch download: OK
+
+ 🕛 > 🕜 TermuxArch 2.0.12 integrity: OK
+
+Setting locales to: Language >> en_US << Region
+
+ 🕛 > 🕝 Detected armv7l Android operating syst
+em.
+
+ 🕛 > 🕒 Activating termux-wake-lock: DONE
+
+ 🕛 > 🕞 Contacting worldwide mirror https://os
+.archlinuxarm.org: DONE
+
+ 🕛 > 🕓 Downloading the checksum file and Arch
+LinuxARM-armv7-latest.tar.gz from the geographi
+cally local mirror http://dk.mirror.archlinuxar
+m.org.  If contact with the local mirror is not
+ successful, run bash setupTermuxArch.bash agai
+n.  Should the worldwide mirror not provide ano
+ther geographically nearby server after a coupl
+e of attempts, use bash setupTermuxArch.bash ma
+nual after locating a local mirror from the Int
+ernet; See bash setupTermuxArch.bash help for a
+dditional options.  Download of ArchLinuxARM-ar
+mv7-latest.tar.gz pending Internet connection:
+
+
+[1/2]: http://dk.mirror.archlinuxarm.org//os/Ar
+chLinuxARM-armv7-latest.tar.gz.md5 --> ArchLinu
+xARM-armv7-latest.tar.gz.md5
+--_curl_--http://dk.mirror.archlinuxarm.org//os
+/ArchLinuxARM-armv7-latest.tar.gz.md5
+  % Total    % Received % Xferd  Average Speed 
+  Time    Time     Time  Current
+
+     Dload  Upload   Total   Spent    Left  Spe
+ed
+  0     0    0     0    0     0      0      0 -
+-:--:-- -  0     0    0     0    0     0      0
+      0 --:--:-- -  0     0    0     0    0    
+ 0      0      0 --:--:--  100    67  100    67
+    0     0     30      0  0:00:02  0:00:02 --:
+--:--    30
+
+[2/2]: http://dk.mirror.archlinuxarm.org//os/Ar
+chLinuxARM-armv7-latest.tar.gz --> ArchLinuxARM
+-armv7-latest.tar.gz
+--_curl_--http://dk.mirror.archlinuxarm.org//os
+/ArchLinuxARM-armv7-latest.tar.gz
+  % Total    % Received % Xferd  Average Speed 
+  Time    Time     Time  Current
+
+     Dload  Upload   Total   Spent    Left  Spe
+ed
+  0     0    0     0    0     0      0      0 -
+-:--:-- -  0  415M    0 16239    0     0  25176
+      0  4:48:19 -  0  415M    0  452k    0    
+ 0   287k      0  0:24:37    0  415M    0 1052k
+    0     0   374k      0  0:18:56    0  415M  
+  0 2070k    0     0   579k      0  0:12:13    
+0  415M    0 3015k    0     0   660k      0  0:
+10:44    0  415M    0 4045k    0     0   726k  
+    0  0:09:45    1  415M    1 5360k    0     0
+   797k      0  0:08:53    1  415M    1 6484k  
+  0     0   852k      0  0:08:18    1  415M    
+1 7652k    0     0   893k      0  0:07:56    2 
+ 415M    2 8795k    0     0   908k      0  0:07
+:48    2  415M    2 9633k    0     0   906k    
+  0  0:07:49    2  415M    2 10.5M    0     0  
+ 917k      0  0:07:43    2  415M    2 11.6M    
+0     0   933k      0  0:07:35    3  415M    3 
+12.5M    0     0   939k      0  0:07:32    3  4
+15M    3 13.5M    0     0   947k      0  0:07:2
+9    3  415M    3 14.7M    0     0   964k      
+0  0:07:21    3  415M    3 15.1M    0     0   9
+36k      0  0:07:34    3  415M    3 16.6M    0 
+    0   968k      0  0:07:19    4  415M    4 17
+.7M    0     0   978k      0  0:07:14    4  415
+M    4 18.9M    0     0   986k      0  0:07:11 
+   4  415M    4 20.1M    0     0   997k      0 
+ 0:07:06    5  415M    5 21.0M    0     0  1000
+k      0  0:07:05    5  415M    5 22.4M    0   
+  0  1014k      0  0:06:59    5  415M    5 23.5
+M    0     0  1016k      0  0:06:58    5  415M 
+   5 24.7M    0     0  1030k      0  0:06:52   
+ 6  415M    6 26.3M    0     0  1055k      0  0
+:06:42    6  415M    6 27.8M    0     0  1073k 
+     0  0:06:36    6  415M    6 28.6M    0     
+0  1063k      0  0:06:39    7  415M    7 29.8M 
+   0     0  1059k      0  0:06:41    7  415M   
+ 7 30.7M    0     0  1064k      0  0:06:39    7
+  415M    7 32.3M    0     0  1075k      0  0:0
+6:35    8  415M    8 33.5M    0     0  1086k   
+   0  0:06:31    8  415M    8 34.9M    0     0 
+ 1093k      0  0:06:28    8  415M    8 35.8M   
+ 0     0  1093k      0  0:06:28    8  415M    8
+ 37.3M    0     0  1105k      0  0:06:24    9  
+415M    9 38.9M    0     0  1119k      0  0:06:
+20    9  415M    9 39.6M    0     0  1097k     
+ 0  0:06:27    9  415M    9 41.3M    0     0  1
+126k      0  0:06:17   10  415M   10 42.2M    0
+     0  1120k      0  0:06:19   10  415M   10 4
+3.7M    0     0  1132k      0  0:06:15  0:00:39
+ 10  415M   10 45.3M    0     0  1145k      0  
+ 11  415M   11 46.4M    0     0  1143k      0  
+ 11  415M   11 48.1M    0     0  1155k      0  
+ 12  415M   12 50.0M    0     0  1173k      0  
+ 12  415M   12 51.9M    0     0  1193k      0  
+ 12  415M   12 53.6M    0     0  1206k      0  
+ 13  415M   13 56.1M    0     0  1230k      0  
+ 13  415M   13 57.6M    0     0  1241k      0  
+ 14  415M   14 59.8M    0     0  1252k      0  
+ 14  415M   14 60.3M    0     0  1247k      0  
+ 15  415M   15 62.7M    0     0  1268k      0  
+ 15  415M   15 64.2M    0     0  1276k      0  
+ 15  415M   15 66.2M    0     0  1289k      0  
+ 16  415M   16 68.2M    0     0  1305k      0  
+ 17  415M   17 70.7M    0     0  1325k      0  
+ 17  415M   17 72.5M    0     0  1335k      0  
+ 17  415M   17 74.5M    0     0  1348k      0  
+ 18  415M   18 76.5M    0     0  1361k      0  
+ 18  415M   18 78.1M    0     0  1365k      0  
+ 19  415M   19 79.6M    0     0  1368k      0  
+ 19  415M   19 81.0M    0     0  1369k      0  
+ 19  415M   19 82.8M    0     0  1377k      0  
+ 20  415M   20 84.7M    0     0  1387k      0  
+ 20  415M   20 86.1M    0     0  1387k      0  
+ 21  415M   21 87.7M    0     0  1392k      0  
+ 21  415M   21 89.7M    0     0  1398k      0  
+ 21  415M   21 91.3M    0     0  1405k      0  
+ 22  415M   22 93.2M    0     0  1409k      0  
+ 22  415M   22 95.1M    0     0  1417k      0  
+ 23  415M   23 96.6M    0     0  1422k      0  
+ 23  415M   23 98.6M    0     0  1430k      0  
+ 24  415M   24 99.6M    0     0  1421k      0  
+ 24  415M   24  100M    0     0  1414k      0  
+ 24  415M   24  101M    0     0  1411k      0  
+ 24  415M   24  102M    0     0  1394k      0  
+ 25  415M   25  104M    0     0  1405k      0  
+ 25  415M   25  105M    0     0  1404k      0  
+ 25  415M   25  105M    0     0  1398k      0  
+ 25  415M   25  107M    0     0  1401k      0  
+ 26  415M   26  108M    0     0  1401k      0  
+ 26  415M   26  110M    0     0  1405k      0  
+ 26  415M   26  111M    0     0  1402k      0  
+ 27  415M   27  113M    0     0  1403k      0  
+ 27  415M   27  114M    0     0  1407k      0  
+ 27  415M   27  115M    0     0  1401k      0  
+ 28  415M   28  117M    0     0  1404k      0  
+ 28  415M   28  119M    0     0  1414k      0  
+ 29  415M   29  121M    0     0  1419k      0  
+ 29  415M   29  123M    0     0  1421k      0  
+ 29  415M   29  124M    0     0  1419k      0  
+ 30  415M   30  126M    0     0  1423k      0  
+ 30  415M   30  127M    0     0  1424k      0  
+ 30  415M   30  128M    0     0  1422k      0  
+ 31  415M   31  129M    0     0  1415k      0  
+ 31  415M   31  131M    0     0  1419k      0  
+ 31  415M   31  132M    0     0  1416k      0  
+ 32  415M   32  133M    0     0  1420k      0  
+ 32  415M   32  135M    0     0  1422k      0  
+ 32  415M   32  136M    0     0  1420k      0  
+ 33  415M   33  137M    0     0  1417k      0  
+ 33  415M   33  139M    0     0  1415k      0  
+ 33  415M   33  140M    0     0  1417k      0  
+ 34  415M   34  141M    0     0  1415k      0  
+ 34  415M   34  142M    0     0  1412k      0  
+ 34  415M   34  144M    0     0  1414k      0  
+ 35  415M   35  146M    0     0  1418k      0  
+ 35  415M   35  147M    0     0  1419k      0  
+ 36  415M   36  149M    0     0  1424k      0  
+ 36  415M   36  151M    0     0  1432k      0  
+ 36  415M   36  153M    0     0  1431k      0  
+ 37  415M   37  154M    0     0  1432k      0  
+ 37  415M   37  156M    0     0  1435k      0  
+ 37  415M   37  157M    0     0  1434k      0  
+ 38  415M   38  159M    0     0  1435k      0  
+ 38  415M   38  160M    0     0  1430k      0  
+ 38  415M   38  161M    0     0  1429k      0  
+ 39  415M   39  163M    0     0  1432k      0  
+ 39  415M   39  163M    0     0  1427k      0  
+ 39  415M   39  165M    0     0  1425k      0  
+ 40  415M   40  167M    0     0  1430k      0  
+ 40  415M   40  168M    0     0  1427k      0  
+ 40  415M   40  169M    0     0  1427k      0  
+ 41  415M   41  171M    0     0  1428k      0  
+ 41  415M   41  172M    0     0  1429k      0  
+ 41  415M   41  173M    0     0  1425k      0  
+ 41  415M   41  174M    0     0  1420k      0  
+ 42  415M   42  174M    0     0  1413k      0  
+ 42  415M   42  175M    0     0  1411k      0  
+ 42  415M   42  176M    0     0  1407k      0  
+ 42  415M   42  177M    0     0  1404k      0  
+ 43  415M   43  178M    0     0  1397k      0  
+ 43  415M   43  180M    0     0  1399k      0  
+ 43  415M   43  181M    0     0  1399k      0  
+ 43  415M   43  182M    0     0  1395k      0  
+ 44  415M   44  183M    0     0  1392k      0  
+ 44  415M   44  183M    0     0  1386k      0  
+ 44  415M   44  184M    0     0  1383k      0  
+ 44  415M   44  185M    0     0  1383k      0  
+ 45  415M   45  186M    0     0  1381k      0  
+ 45  415M   45  188M    0     0  1380k      0  
+ 45  415M   45  189M    0     0  1380k      0  
+ 46  415M   46  191M    0     0  1382k      0  
+ 46  415M   46  191M    0     0  1378k      0  
+ 46  415M   46  194M    0     0  1383k      0  
+ 47  415M   47  195M    0     0  1386k      0  
+ 47  415M   47  197M    0     0  1388k      0  
+ 47  415M   47  198M    0     0  1384k      0  
+ 48  415M   48  199M    0     0  1385k      0  
+ 48  415M   48  201M    0     0  1385k      0  
+ 48  415M   48  202M    0     0  1385k      0  
+ 49  415M   49  203M    0     0  1386k      0  
+ 49  415M   49  205M    0     0  1385k      0  
+ 49  415M   49  206M    0     0  1384k      0  
+ 49  415M   49  207M    0     0  1384k      0  
+ 50  415M   50  208M    0     0  1381k      0  
+ 50  415M   50  209M    0     0  1380k      0  
+ 50  415M   50  210M    0     0  1377k      0  
+ 50  415M   50  211M    0     0  1376k      0  
+ 51  415M   51  212M    0     0  1373k      0  
+ 51  415M   51  213M    0     0  1372k      0  
+ 51  415M   51  215M    0     0  1370k      0  
+ 52  415M   52  216M    0     0  1372k      0  
+ 52  415M   52  217M    0     0  1370k      0  
+ 52  415M   52  219M    0     0  1370k      0  
+ 53  415M   53  220M    0     0  1372k      0  
+ 53  415M   53  222M    0     0  1375k      0  
+ 53  415M   53  223M    0     0  1374k      0  
+ 54  415M   54  225M    0     0  1375k      0  
+ 54  415M   54  226M    0     0  1376k      0  
+ 54  415M   54  227M    0     0  1375k      0  
+ 55  415M   55  228M    0     0  1374k      0  
+ 55  415M   55  231M    0     0  1380k      0  
+ 56  415M   56  232M    0     0  1380k      0  
+ 56  415M   56  233M    0     0  1376k      0  
+ 56  415M   56  235M    0     0  1380k      0  
+ 56  415M   56  236M    0     0  1379k      0  
+ 57  415M   57  237M    0     0  1378k      0  
+ 57  415M   57  239M    0     0  1379k      0  
+ 58  415M   58  240M    0     0  1381k      0  
+ 58  415M   58  242M    0     0  1384k      0  
+ 58  415M   58  243M    0     0  1381k      0  
+ 58  415M   58  244M    0     0  1378k      0  
+ 58  415M   58  244M    0     0  1371k      0  
+ 59  415M   59  246M    0     0  1373k      0  
+ 59  415M   59  247M    0     0  1374k      0  
+ 59  415M   59  248M    0     0  1373k      0  
+ 60  415M   60  249M    0     0  1370k      0  
+ 60  415M   60  251M    0     0  1371k      0  
+ 60  415M   60  251M    0     0  1366k      0  
+ 60  415M   60  252M    0     0  1361k      0  
+ 61  415M   61  253M    0     0  1361k      0  
+ 61  415M   61  254M    0     0  1358k      0  
+ 61  415M   61  254M    0     0  1355k      0  
+ 61  415M   61  256M    0     0  1352k      0  
+ 61  415M   61  256M    0     0  1351k      0  
+ 61  415M   61  257M    0     0  1348k      0  
+ 62  415M   62  258M    0     0  1340k      0  
+ 62  415M   62  258M    0     0  1335k      0  
+ 62  415M   62  258M    0     0  1334k      0  
+ 62  415M   62  259M    0     0  1329k      0  
+ 62  415M   62  259M    0     0  1324k      0  
+ 62  415M   62  260M    0     0  1322k      0  
+ 62  415M   62  261M    0     0  1321k      0  
+ 63  415M   63  262M    0     0  1317k      0  
+ 63  415M   63  262M    0     0  1315k      0  
+ 63  415M   63  263M    0     0  1313k      0  
+ 63  415M   63  264M    0     0  1309k      0  
+ 63  415M   63  265M    0     0  1307k      0  
+ 64  415M   64  266M    0     0  1306k      0  
+ 64  415M   64  267M    0     0  1304k      0  
+ 64  415M   64  268M    0     0  1302k      0  
+ 64  415M   64  269M    0     0  1298k      0  
+ 64  415M   64  269M    0     0  1298k      0  
+ 65  415M   65  270M    0     0  1294k      0  
+ 65  415M   65  270M    0     0  1289k      0  
+ 65  415M   65  271M    0     0  1290k      0  
+ 65  415M   65  272M    0     0  1288k      0  
+ 65  415M   65  273M    0     0  1285k      0  
+ 65  415M   65  274M    0     0  1283k      0  
+ 66  415M   66  274M    0     0  1281k      0  
+ 66  415M   66  275M    0     0  1280k      0  
+ 66  415M   66  276M    0     0  1279k      0  
+ 66  415M   66  277M    0     0  1276k      0  
+ 67  415M   67  278M    0     0  1274k      0  
+ 67  415M   67  279M    0     0  1273k      0  
+ 67  415M   67  279M    0     0  1270k      0  
+ 67  415M   67  281M    0     0  1271k      0  
+ 68  415M   68  282M    0     0  1271k      0  
+ 68  415M   68  283M    0     0  1269k      0  
+ 68  415M   68  284M    0     0  1267k      0  
+ 68  415M   68  285M    0     0  1266k      0  
+ 68  415M   68  286M    0     0  1265k      0  
+ 69  415M   69  287M    0     0  1263k      0  
+ 69  415M   69  287M    0     0  1262k      0  
+ 69  415M   69  289M    0     0  1261k      0  
+ 69  415M   69  290M    0     0  1262k      0  
+ 70  415M   70  291M    0     0  1260k      0  
+ 70  415M   70  292M    0     0  1257k      0  
+ 70  415M   70  292M    0     0  1255k      0  
+ 70  415M   70  293M    0     0  1254k      0  
+ 71  415M   71  295M    0     0  1255k      0  
+ 71  415M   71  295M    0     0  1250k      0  
+ 71  415M   71  296M    0     0  1251k      0  
+ 71  415M   71  297M    0     0  1251k      0  
+ 71  415M   71  298M    0     0  1248k      0  
+ 72  415M   72  300M    0     0  1250k      0  
+ 72  415M   72  301M    0     0  1249k      0  
+ 72  415M   72  302M    0     0  1247k      0  
+ 72  415M   72  303M    0     0  1248k      0  
+ 73  415M   73  303M    0     0  1243k      0  
+ 73  415M   73  304M    0     0  1246k      0  
+ 73  415M   73  306M    0     0  1247k      0  
+ 74  415M   74  307M    0     0  1245k      0  
+ 74  415M   74  308M    0     0  1246k      0  
+ 74  415M   74  309M    0     0  1246k      0  
+ 74  415M   74  310M    0     0  1245k      0  
+ 75  415M   75  311M    0     0  1244k      0  
+ 75  415M   75  312M    0     0  1244k      0  
+ 75  415M   75  314M    0     0  1244k      0  
+ 76  415M   76  315M    0     0  1245k      0  
+ 76  415M   76  317M    0     0  1247k      0  
+ 76  415M   76  319M    0     0  1249k      0  
+ 77  415M   77  320M    0     0  1250k      0  
+ 77  415M   77  322M    0     0  1251k      0  
+ 77  415M   77  323M    0     0  1251k      0  
+ 78  415M   78  324M    0     0  1252k      0  
+ 78  415M   78  326M    0     0  1252k      0  
+ 78  415M   78  327M    0     0  1251k      0  
+ 78  415M   78  328M    0     0  1250k      0  
+ 79  415M   79  328M    0     0  1248k      0  
+ 79  415M   79  330M    0     0  1248k      0  
+ 79  415M   79  330M    0     0  1244k      0  
+ 79  415M   79  332M    0     0  1247k      0  
+ 80  415M   80  333M    0     0  1248k      0  
+ 80  415M   80  334M    0     0  1248k      0  
+ 80  415M   80  336M    0     0  1248k      0  
+ 81  415M   81  337M    0     0  1249k      0  
+ 81  415M   81  338M    0     0  1250k      0  
+ 81  415M   81  340M    0     0  1249k      0  
+ 82  415M   82  340M    0     0  1248k      0  
+ 82  415M   82  342M    0     0  1249k      0  
+ 82  415M   82  344M    0     0  1250k      0  
+ 83  415M   83  345M    0     0  1252k      0  
+ 83  415M   83  347M    0     0  1252k      0  
+ 84  415M   84  349M    0     0  1256k      0  
+ 84  415M   84  351M    0     0  1257k      0  
+ 84  415M   84  351M    0     0  1257k      0  
+ 85  415M   85  353M    0     0  1257k      0  
+ 85  415M   85  354M    0     0  1259k      0  
+ 85  415M   85  356M    0     0  1259k      0  
+ 86  415M   86  357M    0     0  1259k      0  
+ 86  415M   86  358M    0     0  1257k      0  
+ 86  415M   86  359M    0     0  1259k      0  
+ 86  415M   86  361M    0     0  1259k      0  
+ 87  415M   87  362M    0     0  1257k      0  
+ 87  415M   87  363M    0     0  1258k      0  
+ 87  415M   87  363M    0     0  1255k      0  
+ 87  415M   87  364M    0     0  1251k      0  
+ 88  415M   88  365M    0     0  1255k      0  
+ 88  415M   88  367M    0     0  1255k      0  
+ 88  415M   88  368M    0     0  1254k      0  
+ 88  415M   88  369M    0     0  1252k      0  
+ 89  415M   89  369M    0     0  1251k      0  
+ 89  415M   89  370M    0     0  1249k      0  
+ 89  415M   89  371M    0     0  1247k      0  
+ 89  415M   89  372M    0     0  1244k      0  
+ 89  415M   89  372M    0     0  1242k      0  
+ 89  415M   89  372M    0     0  1237k      0  
+ 89  415M   89  372M    0     0  1235k      0  
+ 89  415M   89  373M    0     0  1232k      0  
+ 89  415M   89  373M    0     0  1229k      0  
+ 90  415M   90  373M    0     0  1227k      0  
+ 90  415M   90  374M    0     0  1226k      0  
+ 90  415M   90  375M    0     0  1224k      0  
+ 90  415M   90  375M    0     0  1221k      0  
+ 90  415M   90  376M    0     0  1219k      0  
+ 90  415M   90  376M    0     0  1218k      0  
+ 90  415M   90  377M    0     0  1215k      0  
+ 90  415M   90  377M    0     0  1212k      0  
+ 91  415M   91  378M    0     0  1211k      0  
+ 91  415M   91  378M    0     0  1208k      0  
+ 91  415M   91  379M    0     0  1208k      0  
+ 91  415M   91  380M    0     0  1206k      0  
+ 91  415M   91  380M    0     0  1203k      0  
+ 91  415M   91  380M    0     0  1201k      0  
+ 91  415M   91  381M    0     0  1199k      0  
+ 92  415M   92  382M    0     0  1198k      0  
+ 92  415M   92  383M    0     0  1196k      0  
+ 92  415M   92  383M    0     0  1194k      0  
+ 92  415M   92  384M    0     0  1195k      0  
+ 92  415M   92  385M    0     0  1194k      0  
+ 93  415M   93  386M    0     0  1193k      0  
+ 93  415M   93  387M    0     0  1191k      0  
+ 93  415M   93  387M    0     0  1190k      0  
+ 93  415M   93  389M    0     0  1190k      0  
+ 93  415M   93  390M    0     0  1190k      0  
+ 94  415M   94  391M    0     0  1190k      0  
+ 94  415M   94  392M    0     0  1187k      0  
+ 94  415M   94  392M    0     0  1187k      0  
+ 94  415M   94  393M    0     0  1185k      0  
+ 94  415M   94  393M    0     0  1183k      0  
+ 95  415M   95  394M    0     0  1182k      0  
+ 95  415M   95  395M    0     0  1181k      0  
+ 95  415M   95  396M    0     0  1179k      0  
+ 95  415M   95  396M    0     0  1176k      0  
+ 95  415M   95  396M    0     0  1175k      0  
+ 95  415M   95  397M    0     0  1175k      0  
+ 95  415M   95  398M    0     0  1174k      0  
+ 96  415M   96  400M    0     0  1175k      0  
+ 96  415M   96  401M    0     0  1174k      0  
+ 96  415M   96  401M    0     0  1173k      0  
+ 96  415M   96  402M    0     0  1172k      0  
+ 97  415M   97  403M    0     0  1172k      0  
+ 97  415M   97  404M    0     0  1169k      0  
+ 97  415M   97  405M    0     0  1169k      0  
+ 97  415M   97  406M    0     0  1170k      0  
+ 98  415M   98  407M    0     0  1171k      0  
+ 98  415M   98  408M    0     0  1169k      0  
+ 98  415M   98  409M    0     0  1168k      0  
+ 98  415M   98  410M    0     0  1168k      0  
+ 98  415M   98  411M    0     0  1167k      0  
+ 99  415M   99  412M    0     0  1167k      0  
+ 99  415M   99  413M    0     0  1167k      0  
+ 99  415M   99  415M    0     0  1168k      0  
+100  415M  100  415M    0     0  1169k      0  
+0:06:03  0:06:03 --:--:-- 1299k
+
+ 🕛 > 🕠 Checking download integrity with md5su
+m.  This may take a little while:
+
+ 🕛 > 🕕 System image file download integrity: 
+OK
+
+ 🕛 > 🕡 Unpacking ArchLinuxARM-armv7-latest.ta
+r.gz into /data/data/com.termux/files/home/arch
+.  The option to create Arch Linux system users
+ is available through addauser.  Arch Linux use
+r login from Termux with startarch is now imple
+mented.  See Ability for Scripts to Launch Comm
+ands for Arch Linux in Termux PRoot on Device h
+ttps://github.com/sdrausty/TermuxArch/issues/54
+ for more information about these brand new opt
+ions.
+
+While waiting, you can use df, du -hs, htop, ps
+, top and watch in a new Termux session to watc
+h the unpacking while this session completes.  
+Use info query and man query to learn more abou
+t your Linux system in the palm of your hand.  
+See The Linux Documentation Project http://tldp
+.org to learn more about Linux and CLI commands
+.  Unpacking ArchLinuxARM-armv7-latest.tar.gz w
+ill take a long time; Be patient…
+
+
+ 🕛 > 🕘 Cleaning up installation files: DONE
+
+ 🕛 > 🕤 Arch Linux in Termux PRoot is installe
+d.  Configuring and updating Arch Linux 📲
+
+To generate locales in a preferred language use
+ Settings > Language & Keyboard > Language in A
+ndroid; Then run setupTermuxArch.sh r for a qui
+ck system refresh; For full system refresh you 
+can use setupTermuxArch.sh re[fresh].
+
+==> Generating locales...
+  en_US.UTF-8... done
+Generation complete.
+
+:: Removing redundant packages for Termux PRoot
+ installation…
+checking dependencies...
+:: base optionally requires linux: bare metal s
+upport
+
+Packages (2) linux-armv7-5.4.1-1
+             linux-firmware-20191022.2b016af-3
+
+Total Removed Size:  554.48 MiB
+
+:: Do you want to remove these packages? [Y/n]
+:: Processing package changes...
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+(1/2) removing linux-armv7                     
+
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+(2/2) removing linux-firmware                  
+
+:: Running post-transaction hooks...
+(1/2) Arming ConditionNeedsUpdate...
+(2/2) Updating module dependencies...
+
+==> Running TermuxArch keys archlinux-keyring a
+rchlinuxarm-keyring ca-certificates-utils 2.0.5
+3…
+
+When gpg: Generating pacman keyring master key 
+appears on the screen, the installation process
+ can be accelerated.  The system desires a lot 
+of entropy at this part of the install procedur
+e.  To generate as much entropy as possible qui
+ckly, watch and listen to a file on your device
+.
+
+The program pacman-key will want as much entrop
+y as possible when generating keys.  Entropy is
+ also created through tapping, sliding, one, tw
+o and more fingers tapping with short and long 
+taps.  When gpg: Generating pacman keyring mast
+er key appears on the screen, use any of these 
+simple methods to accelerate the installation p
+rocess if it is stalled.  Put even simpler, jus
+t do something on device.  Browsing files will 
+create entropy on device.  Slowly swiveling the
+ device in space and time will accelerate the i
+nstallation process.  This method alone might n
+ot generate enough entropy (a measure of random
+ness in a closed system) for the process to com
+plete quickly.  Use bash ~/arch/bin/we in a new
+ Termux session to and watch entropy on device.
+
+==> Running pacman-key --init…
+proot warning: ptrace(POKEDATA): I/O error
+gpg: /etc/pacman.d/gnupg/trustdb.gpg: trustdb c
+reated
+gpg: no ultimately trusted keys found
+gpg: starting migration from earlier GnuPG vers
+ions
+gpg: porting secret keys from '/etc/pacman.d/gn
+upg/secring.gpg' to gpg-agent
+gpg: migration succeeded
+gpg: Generating pacman keyring master key...
+gpg: key 4D25D34F9DA472F6 marked as ultimately 
+trusted
+gpg: directory '/etc/pacman.d/gnupg/openpgp-rev
+ocs.d' created
+gpg: revocation certificate stored as '/etc/pac
+man.d/gnupg/openpgp-revocs.d/15D435D79FC71FB6D6
+0DC10F4D25D34F9DA472F6.rev'
+gpg: Done
+==> Updating trust database...
+gpg: marginals needed: 3  completes needed: 1  
+trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 
+0-, 0q, 0n, 0m, 0f, 1u
+proot warning: ptrace(POKEDATA): I/O error
+==> Appending keys from archlinuxarm.gpg...
+==> Locally signing trusted keys in keyring...
+  -> Locally signing key 69DD6C8FD314223E143628
+48BF7EEF7A9C6B5765...
+  -> Locally signing key 02922214DE8981D14DC2AC
+ABBC704E86B823CD25...
+  -> Locally signing key 9D22B7BB678DC056B1F772
+3CB55C5315DCD9EE1A...
+==> Importing owner trust values...
+gpg: setting ownertrust to 4
+gpg: inserting ownertrust of 4
+gpg: setting ownertrust to 4
+==> Updating trust database...
+gpg: marginals needed: 3  completes needed: 1  
+trust model: pgp
+gpg: depth: 0  valid:   1  signed:   3  trust: 
+0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:   3  signed:   1  trust: 
+0-, 0q, 0n, 3m, 0f, 0u
+gpg: depth: 2  valid:   1  signed:   0  trust: 
+1-, 0q, 0n, 0m, 0f, 0u
+
+==> Running pacman -S archlinux-keyring archlin
+uxarm-keyring ca-certificates-utils --noconfirm
+ --color=always…
+warning: archlinuxarm-keyring-20140119-1 is up 
+to date -- reinstalling
+warning: ca-certificates-utils-20181109-2 is up
+ to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (3) archlinux-keyring-20191018-2
+             archlinuxarm-keyring-20140119-1
+             ca-certificates-utils-20181109-2
+
+Total Download Size:   0.88 MiB
+Total Installed Size:  1.25 MiB
+Net Upgrade Size:      1.21 MiB
+
+:: Proceed with installation? [Y/n]
+:: Retrieving packages...
+error: failed retrieving file 'archlinux-keyrin
+g-20191018-2-any.pkg.tar.xz' from dk.mirror.arc
+hlinuxarm.org : The requested URL returned erro
+r: 404
+warning: failed to retrieve some files
+ archlinuxarm-key...     0.0   B  0.00   B/s 00
+ archlinuxarm-key...    12.2 KiB   135 KiB/s 00
+:00
+ ca-certificates-...     0.0   B  0.00   B/s 00
+ ca-certificates-...     7.9 KiB  98.9 KiB/s 00
+:00
+error: failed to commit transaction (unexpected
+ error)
+Errors occurred, no packages were upgraded.
+
+When Appending keys from archlinux.gpg appears 
+on the screen, the installation process can be 
+accelerated.  The system desires a lot of entro
+py at this part of the install procedure.  To g
+enerate as much entropy as possible quickly, wa
+tch and listen to a file on your device.
+
+The program pacman-key will want as much entrop
+y as possible when generating keys.  Entropy is
+ also created through tapping, sliding, one, tw
+o and more fingers tapping with short and long 
+taps.  When Appending keys from archlinux.gpg a
+ppears on the screen, use any of these simple m
+ethods to accelerate the installation process i
+f it is stalled.  Put even simpler, just do som
+ething on device.  Browsing files will create e
+ntropy on device.  Slowly swiveling the device 
+in space and time will accelerate the installat
+ion process.  This method alone might not gener
+ate enough entropy (a measure of randomness in 
+a closed system) for the process to complete qu
+ickly.  Use bash ~/arch/bin/we in a new Termux 
+session to watch entropy on device.
+
+==> Running pacman-key --populate…
+proot warning: ptrace(POKEDATA): I/O error
+==> Appending keys from archlinuxarm.gpg...
+==> Locally signing trusted keys in keyring...
+  -> Locally signing key 69DD6C8FD314223E143628
+48BF7EEF7A9C6B5765...
+  -> Locally signing key 02922214DE8981D14DC2AC
+ABBC704E86B823CD25...
+  -> Locally signing key 9D22B7BB678DC056B1F772
+3CB55C5315DCD9EE1A...
+==> Importing owner trust values...
+==> Updating trust database...
+gpg: no need for a trustdb check
+
+==> Running pacman -Ss keyring --color=always…
+core/archlinux-keyring 20191018-2
+    Arch Linux PGP keyring
+core/archlinuxarm-keyring 20140119-1 [installed
+]
+    Arch Linux ARM PGP keyring
+extra/gnome-keyring 1:3.34.0-2 (gnome)
+    Stores passwords and encryption keys
+extra/libgnome-keyring 3.12.0+11+g3766bcc-1
+    GNOME keyring client library
+extra/python2-gnomekeyring 2.32.0-18
+    Python bindings for libgnome-keyring
+community/debian-archive-keyring 2019.1-1
+    GnuPG archive keys of the Debian archive
+community/jetring 0.27-1
+    gpg keyring maintenance using changesets
+community/python-keyring 19.2.0-3
+    Store and access your passwords safely
+community/python-keyrings-alt 1:3.1.1-3
+    Alternate keyring implementations
+community/ubuntu-keyring 2018.09.18.1-1
+    GnuPG keys of the Ubuntu archive
+
+TermuxArch keys archlinux-keyring archlinuxarm-
+keyring ca-certificates-utils 2.0.53: DONE 🏁
+
+
+==> Running TermuxArch pci  2.0.53 …
+
+:: Synchronizing package databases...
+ core                    0.0   B  0.00   B/s 00
+ core                   14.5 KiB  24.2 KiB/s 00
+ core                   34.7 KiB  48.1 KiB/s 00
+ core                   52.2 KiB  59.8 KiB/s 00
+ core                   73.7 KiB  75.7 KiB/s 00
+ core                   92.5 KiB  81.8 KiB/s 00
+ core                  109.9 KiB  83.7 KiB/s 00
+ core                  127.4 KiB  84.9 KiB/s 00
+ core                  142.2 KiB  81.2 KiB/s 00
+ core                  161.0 KiB  61.2 KiB/s 00
+ core                  215.5 KiB  81.6 KiB/s 00
+:03
+ extra                   0.0   B  0.00   B/s 00
+ extra                  21.3 KiB  35.4 KiB/s 01
+ extra                  37.4 KiB  49.2 KiB/s 00
+ extra                  48.1 KiB  50.7 KiB/s 00
+ extra                  65.6 KiB  62.9 KiB/s 00
+ extra                  82.9 KiB  49.6 KiB/s 00
+ extra                 142.2 KiB   127 KiB/s 00
+ extra                 157.0 KiB   109 KiB/s 00
+ extra                 181.2 KiB   113 KiB/s 00
+ extra                 200.0 KiB   107 KiB/s 00
+ extra                 220.1 KiB   105 KiB/s 00
+ extra                 244.3 KiB   107 KiB/s 00
+ extra                 259.1 KiB  95.7 KiB/s 00
+ extra                 271.2 KiB  83.9 KiB/s 00
+ extra                 284.6 KiB  78.3 KiB/s 00
+ extra                 302.1 KiB  81.3 KiB/s 00
+ extra                 319.6 KiB  83.3 KiB/s 00
+ extra                 334.3 KiB  80.2 KiB/s 00
+ extra                 347.8 KiB  75.9 KiB/s 00
+ extra                 373.2 KiB  62.3 KiB/s 00
+ extra                 423.0 KiB   121 KiB/s 00
+ extra                 437.8 KiB   104 KiB/s 00
+ extra                 448.6 KiB  87.2 KiB/s 00
+ extra                 463.3 KiB  81.6 KiB/s 00
+ extra                 478.1 KiB  76.8 KiB/s 00
+ extra                 491.6 KiB  70.7 KiB/s 00
+ extra                 496.9 KiB  49.5 KiB/s 00
+ extra                 549.2 KiB  70.9 KiB/s 00
+ extra                 581.6 KiB  96.3 KiB/s 00
+ extra                 604.4 KiB   102 KiB/s 00
+ extra                 623.3 KiB  98.0 KiB/s 00
+ extra                 643.4 KiB  99.0 KiB/s 00
+ extra                 668.9 KiB   106 KiB/s 00
+ extra                 690.4 KiB   107 KiB/s 00
+ extra                 713.3 KiB   107 KiB/s 00
+ extra                 732.1 KiB   103 KiB/s 00
+ extra                 754.9 KiB   107 KiB/s 00
+ extra                 777.8 KiB   109 KiB/s 00
+ extra                 802.0 KiB   113 KiB/s 00
+ extra                 826.2 KiB   116 KiB/s 00
+ extra                 847.7 KiB   113 KiB/s 00
+ extra                 866.5 KiB   105 KiB/s 00
+ extra                 889.3 KiB   106 KiB/s 00
+ extra                 909.5 KiB   105 KiB/s 00
+ extra                 933.7 KiB   110 KiB/s 00
+ extra                 956.5 KiB   111 KiB/s 00
+ extra                 972.6 KiB   101 KiB/s 00
+ extra                 990.1 KiB  96.5 KiB/s 00
+ extra                1011.6 KiB   100 KiB/s 00
+ extra                1037.1 KiB   109 KiB/s 00
+ extra                1065.3 KiB   120 KiB/s 00
+ extra                1092.2 KiB   125 KiB/s 00
+ extra                1113.7 KiB   117 KiB/s 00
+ extra                1131.2 KiB   107 KiB/s 00
+ extra                1154.0 KiB   110 KiB/s 00
+ extra                1183.6 KiB   120 KiB/s 00
+ extra                1211.8 KiB   127 KiB/s 00
+ extra                1234.7 KiB   123 KiB/s 00
+ extra                1257.5 KiB   120 KiB/s 00
+ extra                1279.0 KiB   116 KiB/s 00
+ extra                1301.8 KiB   113 KiB/s 00
+ extra                1320.7 KiB   105 KiB/s 00
+ extra                1340.8 KiB   104 KiB/s 00
+ extra                1356.9 KiB  96.2 KiB/s 00
+ extra                1369.0 KiB  83.3 KiB/s 00
+ extra                1381.1 KiB  75.7 KiB/s 00
+ extra                1389.2 KiB  53.7 KiB/s 00
+ extra                1409.3 KiB  66.3 KiB/s 00
+ extra                1440.1 KiB  74.4 KiB/s 00
+ extra                1480.6 KiB   111 KiB/s 00
+ extra                1487.3 KiB  76.4 KiB/s 00
+ extra                1511.5 KiB  89.3 KiB/s 00
+ extra                1539.7 KiB  88.9 KiB/s 00
+ extra                1557.2 KiB  87.0 KiB/s 00
+ extra                1562.5 KiB  67.0 KiB/s 00
+ extra                1576.0 KiB  65.0 KiB/s 00
+ extra                1585.4 KiB  57.6 KiB/s 00
+ extra                1596.1 KiB  54.0 KiB/s 00
+ extra                1616.3 KiB  43.6 KiB/s 00
+ extra                1617.6 KiB  31.3 KiB/s 00
+ extra                1633.6 KiB  26.6 KiB/s 00
+ extra                1695.6 KiB  68.1 KiB/s 00
+ extra                1713.0 KiB  68.7 KiB/s 00
+ extra                1734.4 KiB  81.4 KiB/s 00
+ extra                1752.0 KiB  80.9 KiB/s 00
+ extra                1764.1 KiB  74.1 KiB/s 00
+ extra                1774.8 KiB  66.5 KiB/s 00
+ extra                1786.9 KiB  63.5 KiB/s 00
+ extra                1796.3 KiB  57.3 KiB/s 00
+ extra                1804.4 KiB  50.4 KiB/s 00
+ extra                1812.5 KiB  45.8 KiB/s 00
+ extra                1828.5 KiB  40.2 KiB/s 00
+ extra                1850.1 KiB  58.2 KiB/s 00
+ extra                1859.5 KiB  54.5 KiB/s 00
+ extra                1868.9 KiB  52.0 KiB/s 00
+ extra                1878.3 KiB  50.3 KiB/s 00
+ extra                1887.7 KiB  49.2 KiB/s 00
+ extra                1899.8 KiB  53.0 KiB/s 00
+ extra                1910.6 KiB  53.2 KiB/s 00
+ extra                1921.3 KiB  53.4 KiB/s 00
+ extra                1933.4 KiB  54.8 KiB/s 00
+ extra                1946.8 KiB  57.9 KiB/s 00
+ extra                1958.9 KiB  57.8 KiB/s 00
+ extra                1968.3 KiB  53.4 KiB/s 00
+ extra                1980.4 KiB  54.8 KiB/s 00
+ extra                1991.2 KiB  52.8 KiB/s 00
+ extra                2000.6 KiB  50.9 KiB/s 00
+ extra                2012.7 KiB  54.1 KiB/s 00
+ extra                2024.8 KiB  56.2 KiB/s 00
+ extra                2031.5 KiB  48.7 KiB/s 00
+ extra                2044.9 KiB  52.8 KiB/s 00
+ extra                   2.0 MiB  54.4 KiB/s 00
+ extra                   2.0 MiB  59.7 KiB/s 00
+ extra                   2.0 MiB  57.3 KiB/s 00
+ extra                   2.0 MiB  48.2 KiB/s 00
+ extra                   2.0 MiB  42.8 KiB/s 00
+ extra                   2.1 MiB  49.9 KiB/s 00
+ extra                   2.1 MiB  53.4 KiB/s 00
+ extra                   2.1 MiB  54.8 KiB/s 00
+ extra                   2.1 MiB  54.4 KiB/s 00
+ extra                   2.1 MiB  58.7 KiB/s 00
+ extra                   2.1 MiB  59.3 KiB/s 00
+ extra                   2.1 MiB  55.2 KiB/s 00
+ extra                   2.1 MiB  54.7 KiB/s 00
+ extra                   2.2 MiB  58.9 KiB/s 00
+ extra                   2.2 MiB  68.4 KiB/s 00
+ extra                   2.2 MiB  71.2 KiB/s 00
+ extra                   2.2 MiB  71.2 KiB/s 00
+:32
+ community               0.0   B  0.00   B/s 00
+ community              17.2 KiB  28.7 KiB/s 03
+ community              30.7 KiB  41.5 KiB/s 02
+ community              45.4 KiB  50.1 KiB/s 01
+ community              61.6 KiB  60.3 KiB/s 01
+ community              72.3 KiB  58.1 KiB/s 01
+ community              85.8 KiB  60.1 KiB/s 01
+ community             101.9 KiB  66.9 KiB/s 01
+ community             118.0 KiB  70.2 KiB/s 01
+ community             132.8 KiB  71.4 KiB/s 01
+ community             147.6 KiB  71.1 KiB/s 01
+ community             162.3 KiB  70.9 KiB/s 01
+ community             178.5 KiB  74.1 KiB/s 01
+ community             193.3 KiB  74.0 KiB/s 01
+ community             213.4 KiB  81.4 KiB/s 01
+ community             230.9 KiB  83.4 KiB/s 01
+ community             248.3 KiB  83.3 KiB/s 00
+ community             264.5 KiB  80.0 KiB/s 01
+ community             283.3 KiB  84.7 KiB/s 00
+ community             296.7 KiB  76.8 KiB/s 01
+ community             312.8 KiB  78.1 KiB/s 01
+ community             330.3 KiB  81.2 KiB/s 01
+ community             347.8 KiB  83.2 KiB/s 00
+ community             365.3 KiB  84.6 KiB/s 00
+ community             381.4 KiB  80.8 KiB/s 01
+ community             393.5 KiB  72.2 KiB/s 01
+ community             406.9 KiB  68.5 KiB/s 01
+ community             419.0 KiB  64.0 KiB/s 01
+ community             431.1 KiB  62.8 KiB/s 01
+ community             443.2 KiB  61.1 KiB/s 01
+ community             469.9 KiB  49.9 KiB/s 01
+ community             492.9 KiB  47.2 KiB/s 01
+ community             509.0 KiB  52.1 KiB/s 01
+ community             553.4 KiB   109 KiB/s 00
+ community             565.5 KiB  92.6 KiB/s 00
+ community             592.2 KiB  72.0 KiB/s 01
+ community             631.3 KiB   113 KiB/s 00
+ community             656.7 KiB  87.9 KiB/s 00
+ community             697.2 KiB   123 KiB/s 00
+ community             711.9 KiB  96.3 KiB/s 00
+ community             718.7 KiB  75.4 KiB/s 00
+ community             737.5 KiB  80.1 KiB/s 00
+ community             754.9 KiB  82.5 KiB/s 00
+ community             771.1 KiB  80.6 KiB/s 00
+ community             787.2 KiB  80.6 KiB/s 00
+ community             803.3 KiB  80.6 KiB/s 00
+ community             818.1 KiB  77.2 KiB/s 00
+ community             830.2 KiB  69.8 KiB/s 01
+ community             843.6 KiB  67.9 KiB/s 01
+ community             859.8 KiB  70.8 KiB/s 01
+ community             873.2 KiB  69.6 KiB/s 01
+ community             886.6 KiB  68.8 KiB/s 01
+ community             900.1 KiB  68.3 KiB/s 01
+ community             917.5 KiB  74.6 KiB/s 00
+ community             933.7 KiB  76.6 KiB/s 00
+ community             951.1 KiB  77.6 KiB/s 00
+ community             968.6 KiB  80.8 KiB/s 00
+ community             986.1 KiB  83.0 KiB/s 00
+ community            1004.9 KiB  86.7 KiB/s 00
+ community            1025.0 KiB  89.8 KiB/s 00
+ community            1043.8 KiB  91.2 KiB/s 00
+ community            1062.7 KiB  92.2 KiB/s 00
+ community            1076.1 KiB  83.8 KiB/s 00
+ community            1089.5 KiB  78.3 KiB/s 00
+ community            1105.7 KiB  79.1 KiB/s 00
+ community            1120.4 KiB  77.3 KiB/s 00
+ community            1133.9 KiB  74.0 KiB/s 00
+ community            1150.0 KiB  74.9 KiB/s 00
+ community            1170.2 KiB  81.9 KiB/s 00
+ community            1182.3 KiB  73.8 KiB/s 00
+ community            1198.4 KiB  74.8 KiB/s 00
+ community            1214.5 KiB  76.7 KiB/s 00
+ community            1227.9 KiB  73.6 KiB/s 00
+ community            1241.4 KiB  71.4 KiB/s 00
+ community            1256.2 KiB  71.1 KiB/s 00
+ community            1270.9 KiB  70.9 KiB/s 00
+ community            1288.4 KiB  76.3 KiB/s 00
+ community            1304.5 KiB  77.8 KiB/s 00
+ community            1319.3 KiB  74.2 KiB/s 00
+ community            1332.8 KiB  71.9 KiB/s 00
+ community            1350.2 KiB  75.7 KiB/s 00
+ community            1367.7 KiB  79.6 KiB/s 00
+ community            1382.5 KiB  76.5 KiB/s 00
+ community            1399.9 KiB  80.1 KiB/s 00
+ community            1420.1 KiB  83.9 KiB/s 00
+ community            1432.2 KiB  76.1 KiB/s 00
+ community            1447.0 KiB  74.2 KiB/s 00
+ community            1460.4 KiB  69.8 KiB/s 00
+ community            1476.4 KiB  55.0 KiB/s 01
+ community            1518.2 KiB   103 KiB/s 00
+ community            1526.3 KiB  79.9 KiB/s 00
+ community            1531.6 KiB  62.2 KiB/s 00
+ community            1546.4 KiB  64.9 KiB/s 00
+ community            1559.8 KiB  65.7 KiB/s 00
+ community            1576.0 KiB  70.7 KiB/s 00
+ community            1590.8 KiB  70.6 KiB/s 00
+ community            1604.2 KiB  69.4 KiB/s 00
+ community            1619.0 KiB  70.9 KiB/s 00
+ community            1632.4 KiB  69.7 KiB/s 00
+ community            1645.8 KiB  67.8 KiB/s 00
+ community            1662.0 KiB  72.1 KiB/s 00
+ community            1678.1 KiB  73.6 KiB/s 00
+ community            1691.5 KiB  71.5 KiB/s 00
+ community            1707.7 KiB  73.3 KiB/s 00
+ community            1719.8 KiB  69.0 KiB/s 00
+ community            1734.5 KiB  69.5 KiB/s 00
+ community            1749.3 KiB  70.9 KiB/s 00
+ community            1768.1 KiB  75.8 KiB/s 00
+ community            1788.3 KiB  84.1 KiB/s 00
+ community            1803.1 KiB  78.5 KiB/s 00
+ community            1817.8 KiB  75.8 KiB/s 00
+ community            1831.3 KiB  71.9 KiB/s 00
+ community            1855.5 KiB  86.3 KiB/s 00
+ community            1875.6 KiB  89.5 KiB/s 00
+ community            1889.1 KiB  82.1 KiB/s 00
+ community            1902.5 KiB  77.1 KiB/s 00
+ community            1924.0 KiB  87.2 KiB/s 00
+ community            1942.8 KiB  88.0 KiB/s 00
+ community            1957.6 KiB  82.1 KiB/s 00
+ community            1972.4 KiB  78.2 KiB/s 00
+ community            1992.5 KiB  85.7 KiB/s 00
+ community            2012.7 KiB  90.8 KiB/s 00
+ community            2030.2 KiB  87.0 KiB/s 00
+ community            2046.3 KiB  84.9 KiB/s 00
+ community               2.0 MiB  87.9 KiB/s 00
+ community               2.0 MiB  94.4 KiB/s 00
+ community               2.1 MiB  95.0 KiB/s 00
+ community               2.1 MiB  87.7 KiB/s 00
+ community               2.1 MiB  87.0 KiB/s 00
+ community               2.1 MiB  87.1 KiB/s 00
+ community               2.1 MiB  82.7 KiB/s 00
+ community               2.1 MiB  82.9 KiB/s 00
+ community               2.2 MiB  76.6 KiB/s 00
+ community               2.2 MiB  74.5 KiB/s 00
+ community               2.2 MiB  78.8 KiB/s 00
+ community               2.2 MiB  72.7 KiB/s 00
+ community               2.2 MiB  77.6 KiB/s 00
+ community               2.2 MiB  80.8 KiB/s 00
+ community               2.2 MiB  76.3 KiB/s 00
+ community               2.3 MiB  78.6 KiB/s 00
+ community               2.3 MiB  90.5 KiB/s 00
+ community               2.3 MiB  79.1 KiB/s 00
+ community               2.3 MiB  61.3 KiB/s 00
+ community               2.3 MiB  70.0 KiB/s 00
+ community               2.3 MiB  71.3 KiB/s 00
+ community               2.4 MiB  78.9 KiB/s 00
+ community               2.4 MiB  70.5 KiB/s 00
+ community               2.4 MiB  63.3 KiB/s 00
+ community               2.4 MiB  60.1 KiB/s 00
+ community               2.4 MiB  56.4 KiB/s 00
+ community               2.4 MiB  49.1 KiB/s 00
+ community               2.5 MiB  99.9 KiB/s 00
+ community               2.5 MiB  97.9 KiB/s 00
+ community               2.5 MiB  96.7 KiB/s 00
+ community               2.5 MiB  92.2 KiB/s 00
+ community               2.5 MiB  82.9 KiB/s 00
+ community               2.5 MiB  76.6 KiB/s 00
+ community               2.6 MiB  68.1 KiB/s 00
+ community               2.6 MiB  63.3 KiB/s 00
+ community               2.6 MiB  57.9 KiB/s 00
+ community               2.6 MiB  47.1 KiB/s 00
+ community               2.6 MiB  52.1 KiB/s 00
+ community               2.6 MiB  57.7 KiB/s 00
+ community               2.7 MiB  96.9 KiB/s 00
+ community               2.7 MiB  84.8 KiB/s 00
+ community               2.7 MiB  76.7 KiB/s 00
+ community               2.7 MiB  78.0 KiB/s 00
+ community               2.7 MiB  77.6 KiB/s 00
+ community               2.7 MiB  78.6 KiB/s 00
+ community               2.8 MiB  76.8 KiB/s 00
+ community               2.8 MiB  78.1 KiB/s 00
+ community               2.8 MiB  76.7 KiB/s 00
+ community               2.8 MiB  69.5 KiB/s 00
+ community               2.8 MiB  65.5 KiB/s 00
+ community               2.8 MiB  53.7 KiB/s 00
+ community               2.9 MiB  57.5 KiB/s 00
+ community               2.9 MiB  57.6 KiB/s 00
+ community               3.0 MiB  61.1 KiB/s 00
+ community               3.0 MiB  96.4 KiB/s 00
+ community               3.0 MiB  72.8 KiB/s 00
+ community               3.0 MiB  69.8 KiB/s 00
+ community               3.0 MiB  66.7 KiB/s 00
+ community               3.0 MiB  62.4 KiB/s 00
+ community               3.0 MiB  57.3 KiB/s 00
+ community               3.1 MiB  57.4 KiB/s 00
+ community               3.1 MiB  53.9 KiB/s 00
+ community               3.1 MiB  55.1 KiB/s 00
+ community               3.1 MiB  58.1 KiB/s 00
+ community               3.1 MiB  62.2 KiB/s 00
+ community               3.1 MiB  59.4 KiB/s 00
+ community               3.1 MiB  60.9 KiB/s 00
+ community               3.1 MiB  61.9 KiB/s 00
+ community               3.2 MiB  64.8 KiB/s 00
+ community               3.2 MiB  63.3 KiB/s 00
+ community               3.2 MiB  60.5 KiB/s 00
+ community               3.2 MiB  60.7 KiB/s 00
+ community               3.2 MiB  60.6 KiB/s 00
+ community               3.2 MiB  59.6 KiB/s 00
+ community               3.2 MiB  63.2 KiB/s 00
+ community               3.2 MiB  63.5 KiB/s 00
+ community               3.3 MiB  65.8 KiB/s 00
+ community               3.3 MiB  68.3 KiB/s 00
+ community               3.3 MiB  67.9 KiB/s 00
+ community               3.3 MiB  66.6 KiB/s 00
+ community               3.3 MiB  67.9 KiB/s 00
+ community               3.3 MiB  70.8 KiB/s 00
+ community               3.3 MiB  72.8 KiB/s 00
+ community               3.4 MiB  75.4 KiB/s 00
+ community               3.4 MiB  74.7 KiB/s 00
+ community               3.4 MiB  75.4 KiB/s 00
+ community               3.4 MiB  77.1 KiB/s 00
+ community               3.4 MiB  76.1 KiB/s 00
+ community               3.4 MiB  75.3 KiB/s 00
+ community               3.5 MiB  80.1 KiB/s 00
+ community               3.5 MiB  81.1 KiB/s 00
+ community               3.5 MiB  85.4 KiB/s 00
+ community               3.5 MiB  81.6 KiB/s 00
+ community               3.5 MiB  80.0 KiB/s 00
+ community               3.5 MiB  80.2 KiB/s 00
+ community               3.5 MiB  80.3 KiB/s 00
+ community               3.6 MiB  81.3 KiB/s 00
+ community               3.6 MiB  83.3 KiB/s 00
+ community               3.6 MiB  89.1 KiB/s 00
+ community               3.6 MiB  86.3 KiB/s 00
+ community               3.6 MiB  87.4 KiB/s 00
+ community               3.7 MiB  85.1 KiB/s 00
+ community               3.7 MiB  83.6 KiB/s 00
+ community               3.7 MiB  85.6 KiB/s 00
+ community               3.7 MiB  73.9 KiB/s 00
+ community               3.7 MiB  57.8 KiB/s 00
+ community               3.7 MiB  64.1 KiB/s 00
+ community               3.7 MiB  68.3 KiB/s 00
+ community               3.8 MiB  72.4 KiB/s 00
+ community               3.8 MiB  68.4 KiB/s 00
+ community               3.8 MiB  70.3 KiB/s 00
+ community               3.8 MiB  72.4 KiB/s 00
+ community               3.8 MiB  77.4 KiB/s 00
+ community               3.8 MiB  80.7 KiB/s 00
+ community               3.8 MiB  80.7 KiB/s 00
+ community               3.9 MiB  82.9 KiB/s 00
+ community               3.9 MiB  91.5 KiB/s 00
+ community               3.9 MiB  94.6 KiB/s 00
+ community               3.9 MiB  90.0 KiB/s 00
+ community               3.9 MiB  86.8 KiB/s 00
+ community               4.0 MiB  85.6 KiB/s 00
+ community               4.0 MiB  88.4 KiB/s 00
+ community               4.0 MiB  84.6 KiB/s 00
+ community               4.0 MiB  76.5 KiB/s 00
+ community               4.0 MiB  75.4 KiB/s 00
+ community               4.0 MiB  74.9 KiB/s 00
+ community               4.0 MiB  81.3 KiB/s 00
+ community               4.1 MiB  73.4 KiB/s 00
+ community               4.1 MiB  71.3 KiB/s 00
+ community               4.1 MiB  73.1 KiB/s 00
+ community               4.1 MiB  69.1 KiB/s 00
+ community               4.1 MiB  70.7 KiB/s 00
+ community               4.1 MiB  72.7 KiB/s 00
+ community               4.1 MiB  66.4 KiB/s 00
+ community               4.2 MiB  60.6 KiB/s 00
+ community               4.2 MiB  55.3 KiB/s 00
+ community               4.2 MiB  44.1 KiB/s 00
+ community               4.2 MiB  41.2 KiB/s 00
+ community               4.2 MiB   110 KiB/s 00
+ community               4.3 MiB  99.1 KiB/s 00
+ community               4.3 MiB  87.4 KiB/s 00
+ community               4.3 MiB  78.6 KiB/s 00
+ community               4.3 MiB  85.0 KiB/s 00
+ community               4.3 MiB  82.3 KiB/s 00
+ community               4.3 MiB  80.4 KiB/s 00
+ community               4.3 MiB  79.2 KiB/s 00
+ community               4.4 MiB  82.7 KiB/s 00
+ community               4.4 MiB  80.7 KiB/s 00
+ community               4.4 MiB  81.5 KiB/s 00
+ community               4.4 MiB  74.5 KiB/s 00
+ community               4.4 MiB  77.4 KiB/s 00
+ community               4.4 MiB  77.2 KiB/s 00
+ community               4.5 MiB  61.6 KiB/s 00
+ community               4.5 MiB  50.1 KiB/s 00
+ community               4.5 MiB  59.8 KiB/s 00
+ community               4.5 MiB  57.8 KiB/s 00
+ community               4.5 MiB  58.7 KiB/s 00
+ community               4.5 MiB  66.9 KiB/s 00
+ community               4.5 MiB  62.5 KiB/s 00
+ community               4.5 MiB  58.7 KiB/s 00
+ community               4.5 MiB  60.5 KiB/s 00
+ community               4.6 MiB  62.7 KiB/s 00
+ community               4.6 MiB  63.1 KiB/s 00
+ community               4.6 MiB  69.8 KiB/s 00
+ community               4.6 MiB  75.7 KiB/s 00
+ community               4.6 MiB  73.9 KiB/s 00
+ community               4.6 MiB  75.7 KiB/s 00
+ community               4.7 MiB  72.9 KiB/s 00
+ community               4.7 MiB  74.2 KiB/s 00
+ community               4.7 MiB  75.1 KiB/s 00
+ community               4.7 MiB  76.5 KiB/s 00
+ community               4.7 MiB  77.9 KiB/s 00
+ community               4.7 MiB  74.3 KiB/s 00
+ community               4.7 MiB  69.7 KiB/s 00
+ community               4.8 MiB  68.9 KiB/s 00
+ community               4.8 MiB  57.6 KiB/s 00
+ community               4.8 MiB  55.5 KiB/s 00
+ community               4.8 MiB  55.3 KiB/s 00
+ community               4.8 MiB  57.0 KiB/s 00
+ community               4.8 MiB  57.2 KiB/s 00
+ community               4.8 MiB  46.4 KiB/s 00
+ community               4.9 MiB  82.0 KiB/s 00
+ community               4.9 MiB  63.9 KiB/s 00
+ community               4.9 MiB   100 KiB/s 00
+ community               4.9 MiB  89.3 KiB/s 00
+ community               4.9 MiB  83.0 KiB/s 00
+ community               5.0 MiB  80.0 KiB/s 00
+ community               5.0 MiB  80.2 KiB/s 00
+ community               5.0 MiB  74.8 KiB/s 00
+ community               5.0 MiB  71.2 KiB/s 00
+ community               5.0 MiB  68.8 KiB/s 00
+ community               5.0 MiB  68.3 KiB/s 00
+ community               5.0 MiB  63.8 KiB/s 00
+ community               5.1 MiB  62.7 KiB/s 00
+ community               5.1 MiB  49.9 KiB/s 00
+ community               5.1 MiB  73.9 KiB/s 00
+ community               5.1 MiB  59.9 KiB/s 00
+ community               5.1 MiB  69.7 KiB/s 01
+:15
+ alarm                   0.0   B  0.00   B/s 00
+ alarm                  17.2 KiB  27.3 KiB/s 00
+ alarm                  32.0 KiB  42.9 KiB/s 00
+ alarm                  50.8 KiB  59.9 KiB/s 00
+ alarm                  66.9 KiB  66.8 KiB/s 00
+ alarm                  81.7 KiB  68.0 KiB/s 00
+ alarm                  97.8 KiB  70.9 KiB/s 00
+ alarm                 109.9 KiB  65.6 KiB/s 00
+ alarm                 120.5 KiB  74.4 KiB/s 00
+:02
+ aur is up to date
+:: Starting full system upgrade...
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (25) ca-certificates-mozilla-3.48-1
+              device-mapper-2.02.186-5
+              expat-2.2.9-3  gcc-libs-9.2.0-4
+              glib2-2.62.4-1  glibc-2.30-3
+              gnupg-2.2.19-1
+              gnutls-3.6.11.1-1  grep-3.4-1
+              iana-etc-20191231-1
+              libarchive-3.4.1-1
+              libcap-2.28-1
+              libedit-20191211_3.1-1
+              libnftnl-1.1.5-1
+              libsecret-0.19.1-3
+              libtirpc-1.2.5-1
+              mkinitcpio-busybox-1.31.1-1
+              nano-4.7-1
+              pacman-mirrorlist-20191205-1
+              pcre2-10.34-3  shadow-4.8-1
+              systemd-244.1-1
+              systemd-libs-244.1-1
+              systemd-sysvcompat-244.1-1
+              zstd-1.4.4-1
+
+Total Download Size:    48.45 MiB
+Total Installed Size:  220.91 MiB
+Net Upgrade Size:       35.81 MiB
+
+:: Proceed with installation? [Y/n]
+:: Retrieving packages...
+ iana-etc-2019123...     0.0   B  0.00   B/s 00
+ iana-etc-2019123...    14.5 KiB  24.2 KiB/s 00
+ iana-etc-2019123...    28.0 KiB  38.5 KiB/s 00
+ iana-etc-2019123...    41.4 KiB  47.0 KiB/s 00
+ iana-etc-2019123...    56.2 KiB  53.7 KiB/s 00
+ iana-etc-2019123...    73.6 KiB  63.6 KiB/s 00
+ iana-etc-2019123...    89.8 KiB  66.8 KiB/s 00
+ iana-etc-2019123...   103.2 KiB  65.9 KiB/s 00
+ iana-etc-2019123...   119.3 KiB  69.5 KiB/s 00
+ iana-etc-2019123...   134.1 KiB  69.8 KiB/s 00
+ iana-etc-2019123...   151.6 KiB  75.6 KiB/s 00
+ iana-etc-2019123...   165.0 KiB  70.8 KiB/s 00
+ iana-etc-2019123...   182.5 KiB  76.3 KiB/s 00
+ iana-etc-2019123...   194.6 KiB  71.0 KiB/s 00
+ iana-etc-2019123...   212.1 KiB  76.5 KiB/s 00
+ iana-etc-2019123...   228.2 KiB  76.6 KiB/s 00
+ iana-etc-2019123...   244.3 KiB  75.5 KiB/s 00
+ iana-etc-2019123...   256.4 KiB  70.5 KiB/s 00
+ iana-etc-2019123...   269.8 KiB  69.4 KiB/s 00
+ iana-etc-2019123...   284.6 KiB  69.7 KiB/s 00
+ iana-etc-2019123...   299.4 KiB  69.9 KiB/s 00
+ iana-etc-2019123...   315.5 KiB  72.2 KiB/s 00
+ iana-etc-2019123...   329.0 KiB  69.5 KiB/s 00
+ iana-etc-2019123...   343.7 KiB  71.0 KiB/s 00
+ iana-etc-2019123...   357.2 KiB  69.7 KiB/s 00
+ iana-etc-2019123...   368.6 KiB  71.4 KiB/s 00
+:05
+ glibc-2.30-3-armv7h     0.0   B  0.00   B/s 00
+ glibc-2.30-3-armv7h    17.2 KiB  26.1 KiB/s 05
+ glibc-2.30-3-armv7h    30.6 KiB  39.8 KiB/s 03
+ glibc-2.30-3-armv7h    45.4 KiB  51.2 KiB/s 02
+ glibc-2.30-3-armv7h    60.2 KiB  58.7 KiB/s 02
+ glibc-2.30-3-armv7h    75.0 KiB  63.8 KiB/s 02
+ glibc-2.30-3-armv7h    88.4 KiB  57.0 KiB/s 02
+ glibc-2.30-3-armv7h    93.8 KiB  46.5 KiB/s 03
+ glibc-2.30-3-armv7h   104.5 KiB  48.9 KiB/s 02
+ glibc-2.30-3-armv7h   118.0 KiB  53.9 KiB/s 02
+ glibc-2.30-3-armv7h   128.7 KiB  53.0 KiB/s 02
+ glibc-2.30-3-armv7h   139.5 KiB  52.4 KiB/s 02
+ glibc-2.30-3-armv7h   148.9 KiB  50.6 KiB/s 02
+ glibc-2.30-3-armv7h   159.6 KiB  50.8 KiB/s 02
+ glibc-2.30-3-armv7h   170.4 KiB  50.2 KiB/s 02
+ glibc-2.30-3-armv7h   181.1 KiB  50.5 KiB/s 02
+ glibc-2.30-3-armv7h   187.9 KiB  36.9 KiB/s 03
+ glibc-2.30-3-armv7h   229.5 KiB  94.0 KiB/s 01
+ glibc-2.30-3-armv7h   237.6 KiB  76.1 KiB/s 01
+ glibc-2.30-3-armv7h   252.4 KiB  74.2 KiB/s 01
+ glibc-2.30-3-armv7h   265.8 KiB  71.9 KiB/s 01
+ glibc-2.30-3-armv7h   279.2 KiB  69.2 KiB/s 01
+ glibc-2.30-3-armv7h   291.3 KiB  65.4 KiB/s 02
+ glibc-2.30-3-armv7h   302.1 KiB  58.5 KiB/s 02
+ glibc-2.30-3-armv7h   311.5 KiB  53.9 KiB/s 02
+ glibc-2.30-3-armv7h   322.2 KiB  53.0 KiB/s 02
+ glibc-2.30-3-armv7h   342.4 KiB  42.4 KiB/s 03
+ glibc-2.30-3-armv7h   393.3 KiB  47.8 KiB/s 02
+ glibc-2.30-3-armv7h   425.7 KiB  85.8 KiB/s 01
+ glibc-2.30-3-armv7h   435.1 KiB  71.5 KiB/s 01
+ glibc-2.30-3-armv7h   445.9 KiB  52.7 KiB/s 02
+ glibc-2.30-3-armv7h   476.8 KiB  84.2 KiB/s 01
+ glibc-2.30-3-armv7h   487.5 KiB  73.2 KiB/s 01
+ glibc-2.30-3-armv7h   499.6 KiB  67.1 KiB/s 01
+ glibc-2.30-3-armv7h   511.7 KiB  63.9 KiB/s 02
+ glibc-2.30-3-armv7h   523.8 KiB  61.8 KiB/s 02
+ glibc-2.30-3-armv7h   534.5 KiB  59.1 KiB/s 02
+ glibc-2.30-3-armv7h   549.3 KiB  61.8 KiB/s 02
+ glibc-2.30-3-armv7h   564.1 KiB  64.7 KiB/s 02
+ glibc-2.30-3-armv7h   577.5 KiB  65.5 KiB/s 02
+ glibc-2.30-3-armv7h   592.3 KiB  67.1 KiB/s 01
+ glibc-2.30-3-armv7h   605.8 KiB  66.1 KiB/s 01
+ glibc-2.30-3-armv7h   620.5 KiB  68.7 KiB/s 01
+ glibc-2.30-3-armv7h   636.7 KiB  71.4 KiB/s 01
+ glibc-2.30-3-armv7h   648.8 KiB  67.8 KiB/s 01
+ glibc-2.30-3-armv7h   654.1 KiB  53.7 KiB/s 02
+ glibc-2.30-3-armv7h   659.5 KiB  43.9 KiB/s 02
+ glibc-2.30-3-armv7h   674.3 KiB  53.9 KiB/s 02
+ glibc-2.30-3-armv7h   690.4 KiB  62.8 KiB/s 02
+ glibc-2.30-3-armv7h   701.2 KiB  59.8 KiB/s 02
+ glibc-2.30-3-armv7h   711.9 KiB  56.2 KiB/s 02
+ glibc-2.30-3-armv7h   722.7 KiB  54.5 KiB/s 02
+ glibc-2.30-3-armv7h   732.1 KiB  52.0 KiB/s 02
+ glibc-2.30-3-armv7h   744.2 KiB  53.9 KiB/s 02
+ glibc-2.30-3-armv7h   757.6 KiB  58.3 KiB/s 02
+ glibc-2.30-3-armv7h   771.0 KiB  61.3 KiB/s 02
+ glibc-2.30-3-armv7h   785.8 KiB  65.5 KiB/s 01
+ glibc-2.30-3-armv7h   797.9 KiB  62.9 KiB/s 02
+ glibc-2.30-3-armv7h   807.3 KiB  57.6 KiB/s 02
+ glibc-2.30-3-armv7h   820.8 KiB  59.7 KiB/s 02
+ glibc-2.30-3-armv7h   847.5 KiB  50.4 KiB/s 02
+ glibc-2.30-3-armv7h   886.6 KiB  92.8 KiB/s 01
+ glibc-2.30-3-armv7h   898.7 KiB  82.1 KiB/s 01
+ glibc-2.30-3-armv7h   918.7 KiB  63.4 KiB/s 01
+ glibc-2.30-3-armv7h   963.1 KiB  61.4 KiB/s 02
+ glibc-2.30-3-armv7h  1007.5 KiB   112 KiB/s 01
+ glibc-2.30-3-armv7h  1026.4 KiB   106 KiB/s 01
+ glibc-2.30-3-armv7h  1045.2 KiB   100 KiB/s 01
+ glibc-2.30-3-armv7h  1060.0 KiB  90.4 KiB/s 01
+ glibc-2.30-3-armv7h  1076.1 KiB  87.1 KiB/s 01
+ glibc-2.30-3-armv7h  1093.5 KiB  87.2 KiB/s 01
+ glibc-2.30-3-armv7h  1109.7 KiB  83.7 KiB/s 01
+ glibc-2.30-3-armv7h  1124.5 KiB  80.4 KiB/s 01
+ glibc-2.30-3-armv7h  1143.3 KiB  85.0 KiB/s 01
+ glibc-2.30-3-armv7h  1158.0 KiB  81.3 KiB/s 01
+ glibc-2.30-3-armv7h  1175.5 KiB  83.3 KiB/s 01
+ glibc-2.30-3-armv7h  1191.6 KiB  82.4 KiB/s 01
+ glibc-2.30-3-armv7h  1209.1 KiB  84.1 KiB/s 01
+ glibc-2.30-3-armv7h  1227.9 KiB  87.4 KiB/s 01
+ glibc-2.30-3-armv7h  1244.0 KiB  85.1 KiB/s 01
+ glibc-2.30-3-armv7h  1260.2 KiB  83.6 KiB/s 01
+ glibc-2.30-3-armv7h  1276.3 KiB  82.6 KiB/s 01
+ glibc-2.30-3-armv7h  1289.7 KiB  77.5 KiB/s 01
+ glibc-2.30-3-armv7h  1305.9 KiB  78.5 KiB/s 01
+ glibc-2.30-3-armv7h  1320.6 KiB  77.0 KiB/s 01
+ glibc-2.30-3-armv7h  1336.8 KiB  76.9 KiB/s 01
+ glibc-2.30-3-armv7h  1355.6 KiB  81.1 KiB/s 01
+ glibc-2.30-3-armv7h  1373.0 KiB  81.8 KiB/s 01
+ glibc-2.30-3-armv7h  1386.5 KiB  75.9 KiB/s 01
+ glibc-2.30-3-armv7h  1401.3 KiB  66.0 KiB/s 01
+ glibc-2.30-3-armv7h  1406.6 KiB  51.5 KiB/s 02
+ glibc-2.30-3-armv7h  1424.1 KiB  62.0 KiB/s 01
+ glibc-2.30-3-armv7h  1438.9 KiB  66.0 KiB/s 01
+ glibc-2.30-3-armv7h  1452.3 KiB  66.4 KiB/s 01
+ glibc-2.30-3-armv7h  1471.1 KiB  74.1 KiB/s 01
+ glibc-2.30-3-armv7h  1494.0 KiB  87.5 KiB/s 01
+ glibc-2.30-3-armv7h  1515.5 KiB  94.2 KiB/s 01
+ glibc-2.30-3-armv7h  1534.3 KiB  94.1 KiB/s 01
+ glibc-2.30-3-armv7h  1555.8 KiB  98.6 KiB/s 01
+ glibc-2.30-3-armv7h  1576.0 KiB  97.7 KiB/s 01
+ glibc-2.30-3-armv7h  1597.5 KiB   101 KiB/s 01
+ glibc-2.30-3-armv7h  1619.0 KiB   103 KiB/s 01
+ glibc-2.30-3-armv7h  1641.8 KiB   105 KiB/s 01
+ glibc-2.30-3-armv7h  1667.3 KiB   113 KiB/s 01
+ glibc-2.30-3-armv7h  1688.8 KiB   111 KiB/s 01
+ glibc-2.30-3-armv7h  1713.0 KiB   114 KiB/s 00
+ glibc-2.30-3-armv7h  1739.9 KiB   121 KiB/s 00
+ glibc-2.30-3-armv7h  1764.1 KiB   121 KiB/s 00
+ glibc-2.30-3-armv7h  1788.3 KiB   121 KiB/s 00
+ glibc-2.30-3-armv7h  1812.5 KiB   121 KiB/s 00
+ glibc-2.30-3-armv7h  1835.3 KiB   119 KiB/s 00
+ glibc-2.30-3-armv7h  1862.2 KiB   124 KiB/s 00
+ glibc-2.30-3-armv7h  1886.4 KiB   121 KiB/s 00
+ glibc-2.30-3-armv7h  1913.2 KiB   123 KiB/s 00
+ glibc-2.30-3-armv7h  1940.1 KiB   127 KiB/s 00
+ glibc-2.30-3-armv7h  1964.3 KiB   123 KiB/s 00
+ glibc-2.30-3-armv7h  1981.8 KiB   111 KiB/s 00
+ glibc-2.30-3-armv7h  1996.5 KiB  98.7 KiB/s 01
+ glibc-2.30-3-armv7h  2011.3 KiB  90.5 KiB/s 01
+ glibc-2.30-3-armv7h  2027.5 KiB  85.9 KiB/s 01
+ glibc-2.30-3-armv7h  2044.9 KiB  86.4 KiB/s 01
+ glibc-2.30-3-armv7h     2.0 MiB  70.9 KiB/s 01
+ glibc-2.30-3-armv7h     2.1 MiB   155 KiB/s 00
+ glibc-2.30-3-armv7h     2.1 MiB   135 KiB/s 00
+ glibc-2.30-3-armv7h     2.1 MiB   126 KiB/s 00
+ glibc-2.30-3-armv7h     2.1 MiB   120 KiB/s 00
+ glibc-2.30-3-armv7h     2.2 MiB   122 KiB/s 00
+ glibc-2.30-3-armv7h     2.2 MiB   126 KiB/s 00
+ glibc-2.30-3-armv7h     2.2 MiB   121 KiB/s 00
+ glibc-2.30-3-armv7h     2.2 MiB   118 KiB/s 00
+ glibc-2.30-3-armv7h     2.3 MiB   115 KiB/s 00
+ glibc-2.30-3-armv7h     2.3 MiB   113 KiB/s 00
+ glibc-2.30-3-armv7h     2.3 MiB   116 KiB/s 00
+ glibc-2.30-3-armv7h     2.3 MiB   115 KiB/s 00
+ glibc-2.30-3-armv7h     2.3 MiB   108 KiB/s 00
+ glibc-2.30-3-armv7h     2.4 MiB   112 KiB/s 00
+ glibc-2.30-3-armv7h     2.4 MiB   113 KiB/s 00
+ glibc-2.30-3-armv7h     2.4 MiB   116 KiB/s 00
+ glibc-2.30-3-armv7h     2.4 MiB   124 KiB/s 00
+ glibc-2.30-3-armv7h     2.5 MiB   107 KiB/s 00
+ glibc-2.30-3-armv7h     2.5 MiB  84.9 KiB/s 01
+ glibc-2.30-3-armv7h     2.5 MiB  83.5 KiB/s 01
+ glibc-2.30-3-armv7h     2.5 MiB  87.0 KiB/s 01
+ glibc-2.30-3-armv7h     2.5 MiB   101 KiB/s 00
+ glibc-2.30-3-armv7h     2.6 MiB   105 KiB/s 00
+ glibc-2.30-3-armv7h     2.6 MiB   115 KiB/s 00
+ glibc-2.30-3-armv7h     2.6 MiB   119 KiB/s 00
+ glibc-2.30-3-armv7h     2.6 MiB   124 KiB/s 00
+ glibc-2.30-3-armv7h     2.7 MiB   112 KiB/s 00
+ glibc-2.30-3-armv7h     2.7 MiB   106 KiB/s 00
+ glibc-2.30-3-armv7h     2.7 MiB   115 KiB/s 00
+ glibc-2.30-3-armv7h     2.7 MiB   113 KiB/s 00
+ glibc-2.30-3-armv7h     2.7 MiB   118 KiB/s 00
+ glibc-2.30-3-armv7h     2.8 MiB   121 KiB/s 00
+ glibc-2.30-3-armv7h     2.8 MiB   145 KiB/s 00
+ glibc-2.30-3-armv7h     2.8 MiB   116 KiB/s 00
+ glibc-2.30-3-armv7h     2.9 MiB   129 KiB/s 00
+ glibc-2.30-3-armv7h     2.9 MiB   124 KiB/s 00
+ glibc-2.30-3-armv7h     2.9 MiB   123 KiB/s 00
+ glibc-2.30-3-armv7h     2.9 MiB   122 KiB/s 00
+ glibc-2.30-3-armv7h     3.0 MiB   122 KiB/s 00
+ glibc-2.30-3-armv7h     3.0 MiB   124 KiB/s 00
+ glibc-2.30-3-armv7h     3.0 MiB   116 KiB/s 00
+ glibc-2.30-3-armv7h     3.0 MiB   113 KiB/s 00
+ glibc-2.30-3-armv7h     3.0 MiB   111 KiB/s 00
+ glibc-2.30-3-armv7h     3.1 MiB   110 KiB/s 00
+ glibc-2.30-3-armv7h     3.1 MiB   114 KiB/s 00
+ glibc-2.30-3-armv7h     3.1 MiB   103 KiB/s 00
+ glibc-2.30-3-armv7h     3.1 MiB   107 KiB/s 00
+ glibc-2.30-3-armv7h     3.1 MiB   114 KiB/s 00
+ glibc-2.30-3-armv7h     3.2 MiB   105 KiB/s 00
+ glibc-2.30-3-armv7h     3.2 MiB   108 KiB/s 00
+ glibc-2.30-3-armv7h     3.2 MiB   110 KiB/s 00
+ glibc-2.30-3-armv7h     3.2 MiB   107 KiB/s 00
+ glibc-2.30-3-armv7h     3.2 MiB   100 KiB/s 00
+ glibc-2.30-3-armv7h     3.3 MiB  98.3 KiB/s 00
+ glibc-2.30-3-armv7h     3.3 MiB   100 KiB/s 00
+ glibc-2.30-3-armv7h     3.3 MiB   109 KiB/s 00
+ glibc-2.30-3-armv7h     3.3 MiB  93.1 KiB/s 00
+ glibc-2.30-3-armv7h     3.3 MiB  82.2 KiB/s 01
+ glibc-2.30-3-armv7h     3.3 MiB  71.9 KiB/s 01
+ glibc-2.30-3-armv7h     3.4 MiB  51.8 KiB/s 01
+ glibc-2.30-3-armv7h     3.4 MiB   153 KiB/s 00
+ glibc-2.30-3-armv7h     3.4 MiB   119 KiB/s 00
+ glibc-2.30-3-armv7h     3.5 MiB   120 KiB/s 00
+ glibc-2.30-3-armv7h     3.5 MiB   120 KiB/s 00
+ glibc-2.30-3-armv7h     3.5 MiB   114 KiB/s 00
+ glibc-2.30-3-armv7h     3.5 MiB   118 KiB/s 00
+ glibc-2.30-3-armv7h     3.5 MiB   120 KiB/s 00
+ glibc-2.30-3-armv7h     3.6 MiB   113 KiB/s 00
+ glibc-2.30-3-armv7h     3.6 MiB  95.7 KiB/s 00
+ glibc-2.30-3-armv7h     3.6 MiB  75.0 KiB/s 01
+ glibc-2.30-3-armv7h     3.6 MiB  88.4 KiB/s 00
+ glibc-2.30-3-armv7h     3.6 MiB   101 KiB/s 00
+ glibc-2.30-3-armv7h     3.7 MiB   102 KiB/s 00
+ glibc-2.30-3-armv7h     3.7 MiB  92.8 KiB/s 00
+ glibc-2.30-3-armv7h     3.7 MiB   102 KiB/s 00
+ glibc-2.30-3-armv7h     3.7 MiB   115 KiB/s 00
+ glibc-2.30-3-armv7h     3.8 MiB   119 KiB/s 00
+ glibc-2.30-3-armv7h     3.8 MiB   120 KiB/s 00
+ glibc-2.30-3-armv7h     3.8 MiB   103 KiB/s 00
+ glibc-2.30-3-armv7h     3.8 MiB  95.8 KiB/s 00
+ glibc-2.30-3-armv7h     3.8 MiB   104 KiB/s 00
+ glibc-2.30-3-armv7h     3.9 MiB   114 KiB/s 00
+ glibc-2.30-3-armv7h     3.9 MiB   112 KiB/s 00
+ glibc-2.30-3-armv7h     3.9 MiB  95.0 KiB/s 00
+ glibc-2.30-3-armv7h     3.9 MiB  99.6 KiB/s 00
+ glibc-2.30-3-armv7h     3.9 MiB  78.5 KiB/s 00
+ glibc-2.30-3-armv7h     4.0 MiB   172 KiB/s 00
+ glibc-2.30-3-armv7h     4.0 MiB   125 KiB/s 00
+ glibc-2.30-3-armv7h     4.1 MiB   138 KiB/s 00
+ glibc-2.30-3-armv7h     4.1 MiB   129 KiB/s 00
+ glibc-2.30-3-armv7h     4.2 MiB   195 KiB/s 00
+ glibc-2.30-3-armv7h     4.2 MiB   175 KiB/s 00
+ glibc-2.30-3-armv7h     4.2 MiB   157 KiB/s 00
+ glibc-2.30-3-armv7h     4.2 MiB   140 KiB/s 00
+ glibc-2.30-3-armv7h     4.3 MiB   127 KiB/s 00
+ glibc-2.30-3-armv7h     4.3 MiB   121 KiB/s 00
+ glibc-2.30-3-armv7h     4.3 MiB   109 KiB/s 00
+ glibc-2.30-3-armv7h     4.3 MiB   107 KiB/s 00
+ glibc-2.30-3-armv7h     4.3 MiB   107 KiB/s 00
+ glibc-2.30-3-armv7h     4.4 MiB   109 KiB/s 00
+ glibc-2.30-3-armv7h     4.4 MiB  99.8 KiB/s 00
+ glibc-2.30-3-armv7h     4.4 MiB  76.2 KiB/s 00
+ glibc-2.30-3-armv7h     4.4 MiB   110 KiB/s 00
+ glibc-2.30-3-armv7h     4.5 MiB   180 KiB/s 00
+ glibc-2.30-3-armv7h     4.5 MiB   158 KiB/s 00
+ glibc-2.30-3-armv7h     4.5 MiB   140 KiB/s 00
+ glibc-2.30-3-armv7h     4.6 MiB   131 KiB/s 00
+ glibc-2.30-3-armv7h     4.6 MiB   128 KiB/s 00
+ glibc-2.30-3-armv7h     4.6 MiB   114 KiB/s 00
+ glibc-2.30-3-armv7h     4.6 MiB   104 KiB/s 00
+ glibc-2.30-3-armv7h     4.6 MiB  96.2 KiB/s 00
+error: failed retrieving file 'glibc-2.30-3-arm
+v7h.pkg.tar.xz' from dk.mirror.archlinuxarm.org
+ : Operation too slow. Less than 1 bytes/sec tr
+ansferred the last 10 seconds
+warning: failed to retrieve some files
+ libcap-2.28-1-armv7h    0.0   B  0.00   B/s 00
+ libcap-2.28-1-armv7h   23.9 KiB  39.9 KiB/s 00
+ libcap-2.28-1-armv7h   38.0 KiB   141 KiB/s 00
+:00
+ gcc-libs-9.2.0-4...     0.0   B  0.00   B/s 00
+ gcc-libs-9.2.0-4...    64.2 KiB   107 KiB/s 03
+ gcc-libs-9.2.0-4...   156.2 KiB   225 KiB/s 01
+ gcc-libs-9.2.0-4...   326.9 KiB   434 KiB/s 00
+ gcc-libs-9.2.0-4...   560.6 KiB   429 KiB/s 00
+ gcc-libs-9.2.0-4...   957.0 KiB   712 KiB/s 00
+ gcc-libs-9.2.0-4...  1294.3 KiB   704 KiB/s 00
+ gcc-libs-9.2.0-4...  1990.3 KiB  1218 KiB/s 00
+ gcc-libs-9.2.0-4...     2.7 MiB  1297 KiB/s 00
+ gcc-libs-9.2.0-4...     3.2 MiB  1507 KiB/s 00
+ gcc-libs-9.2.0-4...     4.1 MiB  2.46 MiB/s 00
+ gcc-libs-9.2.0-4...     4.3 MiB  1866 KiB/s 00
+ gcc-libs-9.2.0-4...     4.9 MiB  2.11 MiB/s 00
+ gcc-libs-9.2.0-4...     5.0 MiB  1505 KiB/s 00
+ gcc-libs-9.2.0-4...     5.4 MiB  1425 KiB/s 00
+ gcc-libs-9.2.0-4...     5.7 MiB  1320 KiB/s 00
+ gcc-libs-9.2.0-4...     5.9 MiB  1210 KiB/s 00
+ gcc-libs-9.2.0-4...     6.5 MiB  1076 KiB/s 00
+ gcc-libs-9.2.0-4...     6.7 MiB  1041 KiB/s 00
+ gcc-libs-9.2.0-4...     6.9 MiB   802 KiB/s 00
+ gcc-libs-9.2.0-4...     7.7 MiB  1580 KiB/s 00
+ gcc-libs-9.2.0-4...     8.3 MiB  1406 KiB/s 00
+ gcc-libs-9.2.0-4...     8.8 MiB  1203 KiB/s 00
+ gcc-libs-9.2.0-4...     9.2 MiB  1003 KiB/s 00
+ gcc-libs-9.2.0-4...     9.3 MiB   825 KiB/s 00
+ gcc-libs-9.2.0-4...     9.3 MiB   556 KiB/s 00
+ gcc-libs-9.2.0-4...     9.4 MiB   473 KiB/s 00
+ gcc-libs-9.2.0-4...     9.5 MiB   554 KiB/s 00
+ gcc-libs-9.2.0-4...     9.6 MiB   413 KiB/s 00
+ gcc-libs-9.2.0-4...    10.5 MiB   961 KiB/s 00
+ gcc-libs-9.2.0-4...    11.1 MiB  1615 KiB/s 00
+ gcc-libs-9.2.0-4...    11.3 MiB  1413 KiB/s 00
+ gcc-libs-9.2.0-4...    11.3 MiB   984 KiB/s 00
+ gcc-libs-9.2.0-4...    11.7 MiB  1178 KiB/s 00
+ gcc-libs-9.2.0-4...    12.2 MiB  1408 KiB/s 00
+ gcc-libs-9.2.0-4...    12.7 MiB  1429 KiB/s 00
+ gcc-libs-9.2.0-4...    12.9 MiB  1366 KiB/s 00
+ gcc-libs-9.2.0-4...    13.3 MiB  1322 KiB/s 00
+ gcc-libs-9.2.0-4...    13.7 MiB  1305 KiB/s 00
+ gcc-libs-9.2.0-4...    14.1 MiB  1292 KiB/s 00
+ gcc-libs-9.2.0-4...    14.6 MiB  1138 KiB/s 00
+ gcc-libs-9.2.0-4...    15.1 MiB  1686 KiB/s 00
+ gcc-libs-9.2.0-4...    15.2 MiB  1157 KiB/s 00
+ gcc-libs-9.2.0-4...    15.7 MiB  1050 KiB/s 00
+ gcc-libs-9.2.0-4...    15.9 MiB  1014 KiB/s 00
+ gcc-libs-9.2.0-4...    16.1 MiB   918 KiB/s 00
+ gcc-libs-9.2.0-4...    16.3 MiB   821 KiB/s 00
+ gcc-libs-9.2.0-4...    16.4 MiB   744 KiB/s 00
+ gcc-libs-9.2.0-4...    16.5 MiB   665 KiB/s 00
+ gcc-libs-9.2.0-4...    16.7 MiB   719 KiB/s 00
+ gcc-libs-9.2.0-4...    16.8 MiB   580 KiB/s 00
+ gcc-libs-9.2.0-4...    16.9 MiB   420 KiB/s 00
+ gcc-libs-9.2.0-4...    17.1 MiB   597 KiB/s 00
+ gcc-libs-9.2.0-4...    17.5 MiB   737 KiB/s 00
+ gcc-libs-9.2.0-4...    18.2 MiB  1003 KiB/s 00
+ gcc-libs-9.2.0-4...    18.7 MiB   918 KiB/s 00
+ gcc-libs-9.2.0-4...    19.0 MiB   909 KiB/s 00
+ gcc-libs-9.2.0-4...    19.3 MiB  1173 KiB/s 00
+ gcc-libs-9.2.0-4...    19.5 MiB   931 KiB/s 00
+ gcc-libs-9.2.0-4...    19.9 MiB  1293 KiB/s 00
+ gcc-libs-9.2.0-4...    20.1 MiB  1042 KiB/s 00
+ gcc-libs-9.2.0-4...    20.3 MiB  1017 KiB/s 00
+ gcc-libs-9.2.0-4...    20.6 MiB  1034 KiB/s 00
+ gcc-libs-9.2.0-4...    21.0 MiB  1471 KiB/s 00
+ gcc-libs-9.2.0-4...    21.2 MiB  1169 KiB/s 00
+ gcc-libs-9.2.0-4...    21.3 MiB   963 KiB/s 00
+ gcc-libs-9.2.0-4...    21.3 MiB   655 KiB/s 00
+ gcc-libs-9.2.0-4...    21.5 MiB   611 KiB/s 00
+ gcc-libs-9.2.0-4...    21.7 MiB   663 KiB/s 00
+ gcc-libs-9.2.0-4...    22.1 MiB   605 KiB/s 00
+ gcc-libs-9.2.0-4...    22.2 MiB   641 KiB/s 00
+ gcc-libs-9.2.0-4...    22.3 MiB   584 KiB/s 00
+ gcc-libs-9.2.0-4...    22.5 MiB   406 KiB/s 00
+ gcc-libs-9.2.0-4...    23.1 MiB  1293 KiB/s 00
+ gcc-libs-9.2.0-4...    23.7 MiB   838 KiB/s 00
+:29
+ systemd-libs-244...     0.0   B  0.00   B/s 00
+ systemd-libs-244...   114.0 KiB   190 KiB/s 00
+ systemd-libs-244...   202.6 KiB   222 KiB/s 00
+ systemd-libs-244...   347.7 KiB   682 KiB/s 00
+:01
+ pcre2-10.34-3-armv7h    0.0   B  0.00   B/s 00
+ pcre2-10.34-3-armv7h  170.4 KiB   284 KiB/s 00
+ pcre2-10.34-3-armv7h  343.7 KiB   478 KiB/s 00
+ pcre2-10.34-3-armv7h  523.8 KiB   619 KiB/s 00
+ pcre2-10.34-3-armv7h  706.6 KiB   717 KiB/s 00
+ pcre2-10.34-3-armv7h  838.1 KiB   603 KiB/s 00
+ pcre2-10.34-3-armv7h  954.4 KiB   751 KiB/s 00
+:01
+ libtirpc-1.2.5-1...     0.0   B  0.00   B/s 00
+ libtirpc-1.2.5-1...   157.8 KiB   986 KiB/s 00
+:00
+ device-mapper-2....     0.0   B  0.00   B/s 00
+ device-mapper-2....   168.9 KiB   156 KiB/s 00
+ device-mapper-2....   255.5 KiB   710 KiB/s 00
+:00                                            
+ expat-2.2.9-3-armv7h    0.0   B  0.00   B/s 00
+ expat-2.2.9-3-armv7h   88.1 KiB   979 KiB/s 00
+:00
+ libnftnl-1.1.5-1...     0.0   B  0.00   B/s 00
+ libnftnl-1.1.5-1...    46.2 KiB  1156 KiB/s 00
+:00
+ shadow-4.8-1-armv7h     0.0   B  0.00   B/s 00
+ shadow-4.8-1-armv7h   148.8 KiB   146 KiB/s 00
+ shadow-4.8-1-armv7h   535.8 KiB   635 KiB/s 00
+ shadow-4.8-1-armv7h   648.6 KiB   534 KiB/s 00
+ shadow-4.8-1-armv7h  1059.6 KiB  1081 KiB/s 00
+:01
+ systemd-244.1-1-...     0.0   B  0.00   B/s 00
+ systemd-244.1-1-...   116.5 KiB   125 KiB/s 00
+ systemd-244.1-1-...   592.3 KiB   877 KiB/s 00
+ systemd-244.1-1-...   848.9 KiB   798 KiB/s 00
+ systemd-244.1-1-...  1141.8 KiB   881 KiB/s 00
+ systemd-244.1-1-...  1460.3 KiB   899 KiB/s 00
+ systemd-244.1-1-...  1917.1 KiB   971 KiB/s 00
+ systemd-244.1-1-...     2.2 MiB  1140 KiB/s 00
+ systemd-244.1-1-...     2.6 MiB  1257 KiB/s 00
+ systemd-244.1-1-...     2.8 MiB  1317 KiB/s 00
+ systemd-244.1-1-...     3.2 MiB  1512 KiB/s 00
+ systemd-244.1-1-...     3.6 MiB  1751 KiB/s 00
+ systemd-244.1-1-...     4.3 MiB  2.25 MiB/s 00
+ systemd-244.1-1-...     4.4 MiB  1381 KiB/s 00
+:03                                            
+error: failed retrieving file 'ca-certificates-
+mozilla-3.48-1-armv7h.pkg.tar.xz' from dk.mirro
+r.archlinuxarm.org : Operation too slow. Less t
+han 1 bytes/sec transferred the last 10 seconds
+warning: failed to retrieve some files
+ glib2-2.62.4-1-a...     0.0   B  0.00   B/s 00
+ glib2-2.62.4-1-a...    22.6 KiB  37.6 KiB/s 01
+ glib2-2.62.4-1-a...    60.2 KiB  87.8 KiB/s 00
+ glib2-2.62.4-1-a...   103.2 KiB   105 KiB/s 00
+ glib2-2.62.4-1-a...   348.0 KiB   285 KiB/s 00
+ glib2-2.62.4-1-a...   567.0 KiB   425 KiB/s 00
+ glib2-2.62.4-1-a...  1009.2 KiB   584 KiB/s 00
+ glib2-2.62.4-1-a...  1467.3 KiB   852 KiB/s 00
+ glib2-2.62.4-1-a...  1943.0 KiB  1049 KiB/s 00
+ glib2-2.62.4-1-a...     2.3 MiB   879 KiB/s 00
+:03                                            
+ gnutls-3.6.11.1-...     0.0   B  0.00   B/s 00
+ gnutls-3.6.11.1-...    21.1 KiB  10.8 KiB/s 03
+ gnutls-3.6.11.1-...   311.4 KiB   292 KiB/s 00
+ gnutls-3.6.11.1-...   617.7 KiB   603 KiB/s 00
+ gnutls-3.6.11.1-...   827.5 KiB   735 KiB/s 00
+ gnutls-3.6.11.1-...  1074.7 KiB   784 KiB/s 00
+kill: usage: kill [-s sigspec | -n signum | -si
+gspec] pid | jobspec ... or kill -l [sigspec]  
+ gnutls-3.6.11.1-...  1355.6 KiB   913 KiB/s 00
+kill: usage: kill [-s sigspec | -n signum | -si
+gspec] pid | jobspec ... or kill -l [sigspec]  
+ gnutls-3.6.11.1-...  1664.5 KiB  1056 KiB/s 00
+ gnutls-3.6.11.1-...  1906.4 KiB  1014 KiB/s 00
+ gnutls-3.6.11.1-...     2.5 MiB  1027 KiB/s 00
+:02
+ libsecret-0.19.1...     0.0   B  0.00   B/s 00
+ libsecret-0.19.1...   156.8 KiB   154 KiB/s 00
+ libsecret-0.19.1...   193.5 KiB   569 KiB/s 00
+:00                                            
+ gnupg-2.2.19-1-a...     0.0   B  0.00   B/s 00
+ gnupg-2.2.19-1-a...   159.5 KiB  91.7 KiB/s 00
+ gnupg-2.2.19-1-a...   862.3 KiB   560 KiB/s 00
+ gnupg-2.2.19-1-a...  1321.9 KiB   901 KiB/s 00
+ gnupg-2.2.19-1-a...  1931.7 KiB  1263 KiB/s 00
+:02                                            
+ grep-3.4-1-armv7h       0.0   B  0.00   B/s 00
+ grep-3.4-1-armv7h     181.1 KiB  1393 KiB/s 00
+:00                                            
+ zstd-1.4.4-1-armv7h     0.0   B  0.00   B/s 00
+ zstd-1.4.4-1-armv7h   236.2 KiB   394 KiB/s 00
+ zstd-1.4.4-1-armv7h   317.6 KiB  1222 KiB/s 00
+:00                                            
+ libarchive-3.4.1...     0.0   B  0.00   B/s 00
+ libarchive-3.4.1...   166.4 KiB   277 KiB/s 00
+ libarchive-3.4.1...   236.2 KiB   301 KiB/s 00
+ libarchive-3.4.1...   322.1 KiB   288 KiB/s 00
+ libarchive-3.4.1...   426.5 KiB   584 KiB/s 00
+:01
+ libedit-20191211...     0.0   B  0.00   B/s 00
+ libedit-20191211...    82.5 KiB   825 KiB/s 00
+:00
+ mkinitcpio-busyb...     0.0   B  0.00   B/s 00
+ mkinitcpio-busyb...    66.9 KiB   112 KiB/s 00
+ mkinitcpio-busyb...   244.5 KiB   627 KiB/s 00
+:00
+ nano-4.7-1-armv7h       0.0   B  0.00   B/s 00
+ nano-4.7-1-armv7h     109.8 KiB   108 KiB/s 00
+ nano-4.7-1-armv7h     431.0 KiB   607 KiB/s 00
+ nano-4.7-1-armv7h     470.1 KiB   871 KiB/s 00
+:01
+ pacman-mirrorlis...     0.0   B  0.00   B/s 00
+ pacman-mirrorlis...     2.6 KiB  0.00   B/s 00
+:00
+ systemd-sysvcomp...     0.0   B  0.00   B/s 00
+ systemd-sysvcomp...     7.7 KiB   384 KiB/s 00
+:00                                            
+error: failed to commit transaction (unexpected
+ error)                                        
+Errors occurred, no packages were upgraded.
+error: no operation specified (use -h for help)
+
+ TermuxArch WARNING:  Generated script signal 1
+ near or at line number 69 by !
+                                               
+
+TermuxArch pci  2.0.53: DONE 🏁
+                                               
+kill: usage: kill [-s sigspec | -n signum | -si
+gspec] pid | jobspec ... or kill -l [sigspec]
+kill: usage: kill [-s sigspec | -n signum | -si
+gspec] pid | jobspec ... or kill -l [sigspec]  
+warning: could not get file information for usr
+/lib/gnupg/scdaemon                            
+warning: /etc/pacman.d/mirrorlist installed as 
+/etc/pacman.d/mirrorlist.pacnew                
+                                               
+ TermuxArch WARNING:  Generated script signal 2
+01 near or at line number 55 by                
+==> Running TermuxArch pci  2.0.53 …           
+                                               
+:: Synchronizing package databases...
+ core is up to date
+ extra is up to date
+ community is up to date
+ alarm is up to date
+ aur is up to date
+:: Starting full system upgrade...             
+resolving dependencies...
+looking for conflicting packages...            
+                                               
+Packages (25) ca-certificates-mozilla-3.48-1  d
+evice-mapper-2.02.186-5  expat-2.2.9-3  gcc-lib
+s-9.2.0-4  glib2-2.62.4-1  glibc-2.30-3  gnupg-
+2.2.19-1  gnutls-3.6.11.1-1  grep-3.4-1  iana-e
+tc-20191231-1  libarchive-3.4.1-1  libcap-2.28-
+1  libedit-20191211_3.1-1  libnftnl-1.1.5-1  li
+bsecret-0.19.1-3  libtirpc-1.2.5-1  mkinitcpio-
+busybox-1.31.1-1  nano-4.7-1  pacman-mirrorlist
+-20191205-1  pcre2-10.34-3  shadow-4.8-1  syste
+md-244.1-1  systemd-libs-244.1-1  systemd-sysvc
+ompat-244.1-1  zstd-1.4.4-1
+
+Total Download Size:     3.95 MiB
+Total Installed Size:  220.91 MiB              
+Net Upgrade Size:       35.81 MiB
+                                               
+:: Proceed with installation? [Y/n]            
+:: Retrieving packages...
+downloading glibc-2.30-3-armv7h.pkg.tar.xz...  
+downloading ca-certificates-mozilla-3.48-1-armv
+7h.pkg.tar.xz...
+checking keyring...                            
+checking package integrity...
+loading package files...                       
+checking for file conflicts...
+checking available disk space...               
+:: Processing package changes...
+upgrading iana-etc...                          
+upgrading glibc...
+Generating locales...
+  en_US.UTF-8... done
+Generation complete.
+upgrading libcap...
+upgrading gcc-libs...                          
+upgrading systemd-libs...
+upgrading pcre2...
+upgrading libtirpc...                          
+upgrading device-mapper...
+upgrading expat...
+upgrading libnftnl...
+upgrading shadow...                            
+upgrading systemd...                           
+upgrading ca-certificates-mozilla...           
+upgrading glib2...                             
+upgrading gnutls...                            
+upgrading libsecret...                         
+New optional dependencies for libsecret        
+    org.freedesktop.secrets: secret storage bac
+kend                                           
+upgrading gnupg...                             
+upgrading grep...
+upgrading zstd...
+upgrading libarchive...
+upgrading libedit...
+upgrading mkinitcpio-busybox...
+upgrading nano...
+upgrading pacman-mirrorlist...                 
+upgrading systemd-sysvcompat...
+:: Running post-transaction hooks...           
+( 1/11) Creating system user accounts...       
+( 2/11) Updating journal message catalog...
+( 3/11) Reloading system manager configuration.
+..
+  Skipped: Current root is not booted.
+( 4/11) Updating udev hardware database...
+( 5/11) Applying kernel sysctl settings...     
+  Skipped: Current root is not booted.
+( 6/11) Creating temporary files...
+[/usr/lib/tmpfiles.d/journal-nocow.conf:26] Fai
+led to resolve specifier: uninitialized /etc de
+tected, skipping
+All rules containing unresolvable specifiers wi
+ll be skipped.
+( 7/11) Reloading device manager configuration.
+..
+  Skipped: Device manager is not running.      
+( 8/11) Arming ConditionNeedsUpdate...         
+( 9/11) Updating linux initcpios...
+(10/11) Reloading system bus configuration...  
+  Skipped: Current root is not booted.
+(11/11) Rebuilding certificate stores...       
+
+TermuxArch pci  2.0.53: DONE 🏁
+
+!
+
+finishsetup.bash  2.0.12 [Exit Signal 201]: DON
+E  🏁
+
+                                               
+ 🕛 > 🕙 Releasing termux-wake-lock: DONE
+
+ 🕛 > 🕥 Use startarch to launch Arch Linux in 
+Termux PRoot.  Alternatively, run ~/arch/starta
+rch in a BASH shell to start Arch Linux in Term
+ux PRoot for future sessions.  See startarch he
+lp for usage information.                      
+
+ 🕛 > 🕦 startarch copied to /data/data/com.ter
+mux/files/usr/bin.                             
+
+ 🕛 = 🕛 Information about "Starting Arch Linux
+ from Termux?" at https://github.com/sdrausty/T
+ermuxArch/issues/25.  Use tour to run a very sh
+ort tour to get to know the new Arch Linux in T
+ermux PRoot environment you just set up a littl
+e bit better.  If there was more than one error
+ during the update procedure and you would like
+ to refresh the installation, use setupTermuxAr
+ch.bash refresh.  This will update and recreate
+ the configuration provided.  The TermuxArch co
+mmand keys helps install and generate Arch Linu
+x keyring keys.
+
+Arch Linux in Termux PRoot is installed in /dat
+a/data/com.termux/files/home/arch.  This projec
+t is in active development.  Contributions to t
+his project are welcome; See https://sdrausty.g
+ithub.io/TermuxArch/CONTRIBUTORS for informatio
+n.  The documentation repository for TermuxArch
+ https://sdrausty.github.io/TermuxArch/docs/ is
+ a Termux Arch submodule that is located at htt
+ps://github.com/sdrausty/docsTermuxArch.  Pull 
+requests and contributions through the issues p
+ages are open to improve the ux (user experienc
+e) and this Termux PRoot installation script.i 
+
+Use ~/arch/startarch and startarch in a BASH sh
+ell to launch Arch Linux in Termux PRoot for fu
+ture sessions.  If you are new to *nix, http://
+tldp.org has *nix documentation.  See https://w
+iki.archlinux.org/index.php/IRC_channel for ava
+ilable Arch Linux IRC channels.  If there is a 
+/usr/bin/env not found error, ensure that your 
+software is up to date.  Search https://github.
+com/termux/proot/issues?q="/usr/bin/env"+"not+f
+ound" and https://github.com/termux/termux-pack
+ages/issues?q="/usr/bin/env"+"not+found" in ord
+er to find a resolution if updating Termux app 
+and the software do not resolve thus error.    
+
+
+startarch help
+
+startarch: Start Arch Linux as root.  This acco
+unt is reserved for system administration.     
+
+startarch c[md] cmd: Run Arch Linux command fro
+m Termux as root user.                         
+
+startarch u[ser]|l[ogin] user: Login as user.  
+Use startarch c addauser user first to create t
+his user and user's home directory.            
+                                               
+startarch r[aw]: Construct the startarch proot 
+statement from exec.../bin/.  For example start
+arch r su will exec su in Arch Linux.          
+                                               
+startarch s[u] user cmd: Login as user and exec
+ute command.  Use startarch c addauser user fir
+st to create this user and user's home director
+y.                                             
+
+startarch  2.0.12: DONE 🏁
+
+
+Welcome to Arch Linux in Termux!
+Install a package: pacman -S package
+More  information: pacman -[D|F|Q|R|S|T|U]h    
+Search   packages: pacman -Ss query
+Upgrade  packages: pacman -Syu
+                                               
+Chat: wiki.termux.com/wiki/Community
+Help: info query and man query
+IRC:  wiki.archlinux.org/index.php/IRC_channel 
+
+[root02:43arch]$  
