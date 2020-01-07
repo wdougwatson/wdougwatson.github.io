@@ -1,0 +1,2 @@
+pacman -S base-devel
+pacman -S fzf ripgrep vim emacs screen git zsh stow p7zip unrar tree tmux
