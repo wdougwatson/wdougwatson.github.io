@@ -1,0 +1,1 @@
+pkg rem game-repo && pkg up && pkg in git nano micro proot termux-api less bash-completion wget  && pkg in termux-tools && termux-setup-storage && git clone https://github.com/wdougwatson/wdougwatson.github.io.git
